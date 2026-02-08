@@ -1,0 +1,283 @@
+{
+  "hero": {
+    "badge": "FXLOCUS · Trader Incubation System",
+    "title": "Train traders, not chase headlines.",
+    "subtitle": "A professional training system for the FX secondary market: use plan-execution-review-risk control to turn trading behavior into repeatable skill.",
+    "bullets": [
+      {
+        "title": "Process metrics",
+        "desc": "Evaluate discipline and risk behavior, not profit promises"
+      },
+      {
+        "title": "Standardized reviews",
+        "desc": "Error taxonomy, evidence chains, and correction actions"
+      },
+      {
+        "title": "Risk first",
+        "desc": "Risk budget, sizing rules, violations, and corrections"
+      }
+    ],
+    "cta": {
+      "primary": "Complete the form for a training diagnosis",
+      "secondary": "View the training framework"
+    },
+    "compliance": "This program provides training and review education only. It is not investment advice or a performance promise. FX trading involves risk.",
+    "panel": {
+      "title": "What the diagnosis includes",
+      "items": [
+        {
+          "title": "Risk checkup",
+          "desc": "Budget, stops, and sizing consistency"
+        },
+        {
+          "title": "Execution assessment",
+          "desc": "Plan deviations and frequent error patterns"
+        },
+        {
+          "title": "Review quality",
+          "desc": "Record completeness, evidence chain, corrections"
+        },
+        {
+          "title": "Training path",
+          "desc": "2-4 week goals and process metrics"
+        }
+      ],
+      "metricsTitle": "Training metrics",
+      "metrics": [
+        {
+          "label": "Plan execution rate",
+          "desc": "Rule adherence ratio"
+        },
+        {
+          "label": "Review completion",
+          "desc": "Daily/weekly review cadence"
+        },
+        {
+          "label": "Risk violations",
+          "desc": "Red-line triggers"
+        },
+        {
+          "label": "Drawdown control",
+          "desc": "Volatility within rule boundaries"
+        }
+      ],
+      "footer": "After diagnosis you receive: review template pack + risk checklist"
+    }
+  },
+  "trust": {
+    "items": [
+      {
+        "title": "No signals, no copy trading",
+        "desc": "Training systems and process metrics only"
+      },
+      {
+        "title": "Templates and scorecards",
+        "desc": "Plan, review, and risk rulebook deliverables"
+      },
+      {
+        "title": "Weekly review loop",
+        "desc": "Error -> correction -> re-test"
+      },
+      {
+        "title": "Fit for FX cadence",
+        "desc": "Structure, liquidity, and execution training combined"
+      }
+    ]
+  },
+  "method": {
+    "title": "Framework: Diagnose -> Train -> Review -> Evaluate",
+    "lead": "Turn trading intuition into trainable actions with templates and metrics.",
+    "outputLabel": "Deliverable",
+    "steps": [
+      {
+        "step": "Step 01",
+        "title": "Diagnose",
+        "goal": "Locate bottlenecks (risk, execution, validation, psychology)",
+        "deliverable": "Diagnosis report (issues + priorities)"
+      },
+      {
+        "step": "Step 02",
+        "title": "Train",
+        "goal": "Build plan and execution actions (trigger, size, exit)",
+        "deliverable": "Training plan (2-4 week goals and metrics)"
+      },
+      {
+        "step": "Step 03",
+        "title": "Review",
+        "goal": "Evidence-based review, not market retelling",
+        "deliverable": "Error taxonomy + correction list"
+      },
+      {
+        "step": "Step 04",
+        "title": "Evaluate",
+        "goal": "Verify change with process metrics",
+        "deliverable": "Weekly score + next-cycle tasks"
+      }
+    ]
+  },
+  "modules": {
+    "title": "Training modules (professional FX trader skill map)",
+    "lead": "No universal strategy. We focus on structure, discipline, risk boundaries, and review loops.",
+    "labels": {
+      "input": "Input: ",
+      "action": "Training action: ",
+      "output": "Output: "
+    },
+    "items": [
+      {
+        "title": "Market structure and key zones",
+        "input": "Trend/range, key levels, liquidity signals",
+        "action": "Structure tagging and stage recognition",
+        "output": "Structure notes and plan draft"
+      },
+      {
+        "title": "Entry triggers and execution",
+        "input": "Triggers, confirmation rules, spread/slippage",
+        "action": "Execution checklist practice",
+        "output": "Actionable entry checklist"
+      },
+      {
+        "title": "Sizing and risk budget",
+        "input": "Risk unit, sizing model, stop consistency",
+        "action": "Sizing and risk rule training",
+        "output": "Personal risk rules (reusable)"
+      },
+      {
+        "title": "Exit management",
+        "input": "Take-profit logic, scale-out rules, invalidation",
+        "action": "Exit and management rules",
+        "output": "Exit rulebook (no randomness)"
+      },
+      {
+        "title": "Review evidence chain",
+        "input": "Screenshots/records/reasons/deviations",
+        "action": "Error taxonomy and correction reviews",
+        "output": "Error tags + correction actions"
+      },
+      {
+        "title": "Strategy validation",
+        "input": "Samples, consistency, expectancy, variance",
+        "action": "Validation practice",
+        "output": "Validation table (avoid randomness)"
+      }
+    ],
+    "deliverables": {
+      "title": "Deliverables (tools you receive)",
+      "items": [
+        "Trading plan template (structure/trigger/risk/exit)",
+        "Review scorecard (evidence chain + error taxonomy)",
+        "Risk rulebook (budget/sizing/red lines)",
+        "Weekly review agenda (re-test and iteration)"
+      ],
+      "note": "Available in Notion / Excel / PDF"
+    }
+  },
+  "fit": {
+    "title": "Who fits / Who does not",
+    "lead": "We screen traders to protect training quality and cadence.",
+    "goodTitle": "Good fit",
+    "good": [
+      "Has experience and wants a repeatable process",
+      "Willing to log and review decisions",
+      "Puts risk control first",
+      "Accepts scoring and corrections"
+    ],
+    "badTitle": "Not a fit",
+    "bad": [
+      "Looking for signals or copy trading",
+      "Profit is the only goal, no records or reviews",
+      "Unwilling to follow risk rules",
+      "Expecting short-term doubling"
+    ]
+  },
+  "metrics": {
+    "title": "How we measure progress (capability, not profit)",
+    "lead": "Sustainability comes from behavior quality. We track these process metrics.",
+    "items": [
+      {
+        "title": "Plan execution rate",
+        "desc": "Rule-based entry and exit adherence"
+      },
+      {
+        "title": "Risk consistency",
+        "desc": "Stop and sizing alignment"
+      },
+      {
+        "title": "Review completion",
+        "desc": "Record completeness and re-test cadence"
+      },
+      {
+        "title": "Error recurrence",
+        "desc": "Repeat mistake reduction"
+      },
+      {
+        "title": "Plan deviations",
+        "desc": "Off-plan action frequency"
+      },
+      {
+        "title": "Emotional triggers",
+        "desc": "Impulse scenarios identified"
+      }
+    ],
+    "note": "Metrics are for process improvement and do not represent performance results."
+  },
+  "process": {
+    "title": "Onboarding process",
+    "steps": [
+      {
+        "title": "Fill the form (2 minutes)",
+        "desc": "Experience, instruments, main issues"
+      },
+      {
+        "title": "Schedule diagnosis (online 20-30 min)",
+        "desc": "Identify bottlenecks and training goals"
+      },
+      {
+        "title": "Training plan (2-4 weeks)",
+        "desc": "Define metrics and tasks"
+      },
+      {
+        "title": "Enter the loop (log-review-correct-retest)",
+        "desc": "Weekly evaluation and adjustment"
+      }
+    ],
+    "prepTitle": "What to prepare",
+    "prepItems": [
+      "Recent 20-30 trades (screenshots, Excel, or platform export)",
+      "Your current entry/stop/size rules (even if rough)",
+      "Your top 2-3 issues (chasing, holding losers, over-sizing)"
+    ]
+  },
+  "faq": {
+    "title": "FAQ",
+    "items": [
+      {
+        "q": "Do you provide trading strategies?",
+        "a": "We provide framework and validation methods so you can build your own rules."
+      },
+      {
+        "q": "Do you offer signals or copy trading?",
+        "a": "No. We focus on training: planning, execution, review, and risk."
+      },
+      {
+        "q": "How soon can I see changes?",
+        "a": "Early changes show up in process metrics: higher execution rate, fewer violations, better review quality."
+      },
+      {
+        "q": "Is this suitable for short-term or day trading?",
+        "a": "Yes. The focus is risk control and execution, not a specific timeframe."
+      },
+      {
+        "q": "Any requirements for FX instruments?",
+        "a": "Major pairs are preferred due to liquidity and stable spreads."
+      }
+    ]
+  },
+  "final": {
+    "title": "Ready to make trading repeatable?",
+    "lead": "After the form, we review your records and issues, then schedule a diagnosis with a 2-4 week training proposal.",
+    "primary": "Complete the form for a diagnosis",
+    "secondary": "Download review templates",
+    "note": "Time: 2 minutes | Diagnosis: online 20-30 minutes | No profit promise, focus on process and risk"
+  }
+}

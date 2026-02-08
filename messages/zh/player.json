@@ -1,0 +1,13 @@
+{
+  "play": "播放",
+  "pause": "暂停",
+  "seek": "拖动进度",
+  "mute": "静音",
+  "unmute": "取消静音",
+  "volume": "音量",
+  "speed": "倍速",
+  "quality": "清晰度",
+  "fullscreen": "全屏",
+  "defaultMute": "默认静音"
+}
+

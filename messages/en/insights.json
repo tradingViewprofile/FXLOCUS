@@ -1,0 +1,37 @@
+{
+  "hero": {
+    "title": "Insights: write to think, then trade",
+    "subtitle": "Reading alone won’t change behavior. These articles are written as training prompts: define market context, clarify your claim, set falsification points, and decide what you will do if you’re wrong. The goal is to rebuild perception and execution first—so your strategy becomes a consequence of clarity, not a reaction to noise.",
+    "highlights": [
+      "Pillar-based writing: Mind, Market, Price Action.",
+      "Each piece aims to end with an action checklist.",
+      "Falsification and pitfalls included to reduce self-deception."
+    ],
+    "cta": {
+      "primary": "Explore the framework",
+      "secondary": "Start training"
+    },
+    "risk": "Educational content only. Not investment advice; trading involves risk."
+  },
+  "title": "Insights",
+  "lead": "Systematic writing on Mind, Market, and Price Action—with action checklists and falsification criteria.",
+  "searchPlaceholder": "Search by title or keyword…",
+  "filters": {
+    "all": "All",
+    "mind": "Mind",
+    "market": "Market",
+    "price": "Price Action"
+  },
+  "sort": {
+    "latest": "Latest",
+    "popular": "Popular"
+  },
+  "empty": "No insights yet. Check back soon.",
+  "detail": {
+    "readingTime": "Reading time",
+    "keyPoints": "Key points",
+    "checklist": "Action checklist",
+    "falsification": "Falsification & pitfalls",
+    "related": "Related"
+  }
+}

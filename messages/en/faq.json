@@ -1,0 +1,139 @@
+{
+  "hero": {
+    "eyebrow": "Official FAQ",
+    "title": "FAQs & Training Rules",
+    "subtitle": "Confirm boundaries, process, and risk awareness before you start.",
+    "highlights": ["No profit promises", "Structured cadence", "Audit-ready rules"],
+    "cta": {
+      "primary": "Book an Interview",
+      "secondary": "View Framework"
+    },
+    "risk": "Risk notice: This platform is for learning and training only and does not constitute investment advice."
+  },
+  "sections": [
+    {
+      "title": "Enrollment & Eligibility",
+      "items": [
+        {
+          "q": "Who is this for?",
+          "a": "Traders willing to record, review, and follow execution rules. Consistency matters most."
+        },
+        {
+          "q": "How do I apply?",
+          "a": "Submit a request on the contact page. We will match your context and schedule an interview."
+        },
+        {
+          "q": "What information do I need?",
+          "a": "Basic profile, trading background, and current challenges. We focus on review habits."
+        },
+        {
+          "q": "Is this paid?",
+          "a": "Training focuses on rules and audit. Any collaboration terms are discussed after evaluation."
+        },
+        {
+          "q": "Do I need trading experience?",
+          "a": "Not required, but basic experience helps you sync with the training cadence faster."
+        },
+        {
+          "q": "Any location restrictions?",
+          "a": "No. You just need stable time commitment and communication."
+        }
+      ]
+    },
+    {
+      "title": "Training Flow & Cadence",
+      "items": [
+        {
+          "q": "How long is the training cycle?",
+          "a": "Typically 30-60 days for the core cycle, adjusted by execution progress."
+        },
+        {
+          "q": "How much time per week is needed?",
+          "a": "Set a fixed weekly schedule for structure mapping and reviews to keep continuity."
+        },
+        {
+          "q": "How are reviews handled?",
+          "a": "Weekly review submissions are audited for structure, execution, and results."
+        },
+        {
+          "q": "Can I pause or exit?",
+          "a": "Yes. We recommend documenting the reason and a return plan for smoother re-entry."
+        },
+        {
+          "q": "What counts as passing?",
+          "a": "Execution consistency, review quality, and risk discipline matter more than a single result."
+        },
+        {
+          "q": "Is there a coach or leader review?",
+          "a": "Yes. A responsible reviewer follows your cadence and gives structured feedback."
+        }
+      ]
+    },
+    {
+      "title": "Risk & Rules",
+      "items": [
+        {
+          "q": "Do you promise returns?",
+          "a": "No. Any promise of returns is unreliable. We provide training methods and rules only."
+        },
+        {
+          "q": "How is risk controlled?",
+          "a": "Position rules, stop discipline, and review audits keep risk visible and traceable."
+        },
+        {
+          "q": "Who is not a fit?",
+          "a": "Traders looking for signals or unwilling to record and review are not a fit."
+        },
+        {
+          "q": "Are charts or quotes delayed?",
+          "a": "Delays are possible; official venue data prevails. Training emphasizes structure."
+        },
+        {
+          "q": "Can I trade multiple symbols?",
+          "a": "Yes, but you must follow one risk rule set and keep records consistent."
+        },
+        {
+          "q": "What happens if rules are broken?",
+          "a": "Violations are logged and reviewed. Repeated issues may pause training."
+        }
+      ]
+    },
+    {
+      "title": "System & Content",
+      "items": [
+        {
+          "q": "How is course content updated?",
+          "a": "Core principles stay stable while cases and details iterate with the market."
+        },
+        {
+          "q": "Do you provide trade signals?",
+          "a": "No. The focus is building your framework, rules, and execution consistency."
+        },
+        {
+          "q": "Is my account data secure?",
+          "a": "We only collect what is necessary and use access control to protect data."
+        },
+        {
+          "q": "Can I customize my learning path?",
+          "a": "Yes. You can adjust the order while respecting the core rules."
+        },
+        {
+          "q": "Do you provide templates?",
+          "a": "Yes. Review and execution templates help you standardize records."
+        },
+        {
+          "q": "How can I give feedback?",
+          "a": "Use system messages or the contact page. We respond within the review cycle."
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "eyebrow": "Next Step",
+    "title": "Ready to start your training path?",
+    "lead": "Share your background and goals. We will propose a cadence that fits your situation.",
+    "primary": "Book an Interview",
+    "secondary": "About FxLocus",
+    "note": "Reminder: Training focuses on process and review, not profit promises."
+  }
+}

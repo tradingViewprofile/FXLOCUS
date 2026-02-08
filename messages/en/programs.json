@@ -1,0 +1,88 @@
+{
+  "hero": {
+    "title": "Programs: training you can audit",
+    "subtitle": "Programs are not promises—they’re mechanisms. Each tier is designed to turn Mind, Market, and Price Action into repeatable execution through cadence, deliverables, and review. You’ll practice writing context and falsification points, running an execution gate, and auditing behavior with a scorecard. The objective is consistency under pressure, with risk boundaries made explicit.",
+    "highlights": [
+      "Clear cadence: input → break down → execute → review.",
+      "Deliverables that force clarity and reduce improvisation.",
+      "Evaluation via logs and corrective actions, not outcomes."
+    ],
+    "cta": {
+      "primary": "Book a call",
+      "secondary": "Explore the framework"
+    },
+    "risk": "Educational content only. Not investment advice; trading involves risk."
+  },
+  "title": "Programs",
+  "lead": "Programs are training mechanisms: deliverables, cadence, and evaluation must be explicit.",
+  "tiers": {
+    "course": {
+      "title": "Core course (self-paced)",
+      "lead": "Modular training with assignments and templates—turning framework into practice.",
+      "for": "For: building structure and a self-training cadence",
+      "notFor": "Not for: signal seekers who won’t log and review",
+      "deliver": [
+        "Modules & notes",
+        "Checklists & templates",
+        "Assignments & quizzes"
+      ],
+      "cta": "See syllabus"
+    },
+    "camp": {
+      "title": "Training cohort (time-boxed)",
+      "lead": "Weekly cadence: input, work, and review audits—training consistency.",
+      "deliver": [
+        "Weekly plan",
+        "Review audits",
+        "Scorecards & corrective actions"
+      ],
+      "cta": "Apply"
+    },
+    "audit": {
+      "title": "1:1 audit (application-based)",
+      "lead": "Work from your logs and reviews to produce an SOP, guardrails, and a baseline scorecard.",
+      "deliver": [
+        "Personal SOP",
+        "Guardrails",
+        "Baseline scorecard & review framework"
+      ],
+      "cta": "Book a call"
+    }
+  },
+  "flow": {
+    "title": "Process",
+    "steps": [
+      "Share context",
+      "Initial assessment",
+      "Confirm goals",
+      "Training cadence",
+      "Deliverables & review loop"
+    ]
+  },
+  "faqTitle": "Program FAQ",
+  "faqLead": "Define boundaries first. Programs only work with clear constraints.",
+  "faq": {
+    "items": {
+      "q1": {
+        "q": "Do you promise returns?",
+        "a": "No. Trading involves substantial risk and no program can credibly promise returns. The goal is a trainable, auditable process."
+      },
+      "q2": {
+        "q": "What should I prepare?",
+        "a": "Bring context: instruments, timeframes, your constraints, and any logs/reviews you already have. If you have none, we start by building a minimal logging habit."
+      },
+      "q3": {
+        "q": "What does a weekly cadence look like?",
+        "a": "A weekly breakdown, execution logs during the week, and a written review with one corrective action. The point is repeatability."
+      },
+      "q4": {
+        "q": "What if my time is limited?",
+        "a": "We reduce scope: fewer markets, fewer setups, and stricter gates. Consistency beats volume."
+      },
+      "q5": {
+        "q": "Is this signals?",
+        "a": "No. You’ll learn frameworks, constraints, and how to write falsification. Signals don’t build auditability."
+      }
+    }
+  }
+}

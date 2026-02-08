@@ -1,0 +1,54 @@
+{
+  "brandCn": "汇点核心交易",
+  "brandEn": "FxLocus Trading",
+  "cta": {
+    "enterFramework": "Explore the framework",
+    "bookCall": "Book a call",
+    "viewAll": "View all",
+    "learnMore": "Learn more",
+    "getStarted": "Start training",
+    "submit": "Submit",
+    "copy": "Copy",
+    "back": "Back"
+  },
+  "labels": {
+    "mind": "Mind",
+    "market": "Market",
+    "price": "Price Action"
+  },
+  "form": {
+    "country": "Country/Region",
+    "phone": "Phone number",
+    "placeholders": {
+      "phone": "Type your number…"
+    }
+  },
+  "ui": {
+    "menu": "Menu",
+    "close": "Close",
+    "nav": "Navigation",
+    "copied": "Copied",
+    "searchCountry": "Search country…",
+    "noResults": "No results",
+    "capabilities": "Capabilities",
+    "step": "Step",
+    "metric": "Metric",
+    "before": "Before",
+    "after": "After",
+    "deliverables": "Deliverables",
+    "trainingAction": "Training action",
+    "evaluation": "Evaluation",
+    "submitting": "Submitting…",
+    "toc": "Contents",
+    "minutesShort": "min",
+    "locale": {
+      "zh": "ZH",
+      "en": "EN"
+    }
+  },
+  "tiers": {
+    "course": "Course",
+    "camp": "Cohort",
+    "audit": "1:1 Audit"
+  }
+}

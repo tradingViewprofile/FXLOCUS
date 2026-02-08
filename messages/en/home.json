@@ -1,0 +1,357 @@
+{
+  "hero": {
+    "eyebrow": "Training over tactics",
+    "title": "Rebuild perception and execution—then talk strategy",
+    "lead": "Build a trainable, auditable, repeatable trading system across Mind, Market, and Price Action.",
+    "statement": "Trade begins with the mind—focus on the essentials.",
+    "statementEm": "Where Mind Meets the Market.",
+    "aboutCta": "Learn about us",
+    "scroll": {
+      "label": "Scroll · Framework & Tools",
+      "aria": "Scroll to content"
+    },
+    "bullets": {
+      "b1": "Weekly loop: learn → break down → execute → review → iterate",
+      "b2": "Discipline by design: rules you can track and repeat",
+      "b3": "Structured reading: force & location—not indicator stacking"
+    },
+    "stats": {
+      "s1": {
+        "label": "Training modules",
+        "value": "12+"
+      },
+      "s2": {
+        "label": "Core tools",
+        "value": "6+"
+      },
+      "s3": {
+        "label": "Review templates",
+        "value": "10+"
+      }
+    },
+    "assets": {
+      "fx": "FX",
+      "gold": "Gold",
+      "indices": "Indices",
+      "crypto": "Crypto"
+    },
+    "preview": {
+      "cards": {
+        "market": {
+          "title": "Market",
+          "desc": "Regimes, narrative, key locations.",
+          "meta": "Output: weekly breakdown"
+        },
+        "mind": {
+          "title": "Mind",
+          "desc": "Checklist gate, post-loss protocol.",
+          "meta": "Output: checklist & hard limits"
+        },
+        "price": {
+          "title": "Price Action",
+          "desc": "Force, location, falsification.",
+          "meta": "Output: reading SOP"
+        },
+        "execution": {
+          "title": "Execution",
+          "desc": "Parameters, rules, scorecards.",
+          "meta": "Metric: consistency score"
+        }
+      }
+    },
+    "console": {
+      "tabs": {
+        "market": "Market",
+        "mind": "Mind",
+        "price": "Price Action",
+        "execution": "Execution"
+      },
+      "status": "READY",
+      "definitionLabel": "Definition",
+      "outputsLabel": "Outputs",
+      "metricLabel": "Metric",
+      "loop": {
+        "title": "Weekly loop",
+        "subtitle": "learn → iterate",
+        "steps": [
+          "Learn",
+          "Break down",
+          "Execute",
+          "Review",
+          "Iterate"
+        ]
+      },
+      "panels": {
+        "market": {
+          "definition": "Identify regimes, write narrative, and define key locations.",
+          "outputs": [
+            "Regime checklist",
+            "Weekly breakdown",
+            "Location map"
+          ],
+          "metric": "Consistent regime calls across markets"
+        },
+        "mind": {
+          "definition": "Use gates and protocols to keep impulse out of execution.",
+          "outputs": [
+            "Pre-trade checklist",
+            "Post-loss protocol",
+            "Hard limits list"
+          ],
+          "metric": "Rule violations trend down"
+        },
+        "price": {
+          "definition": "Read force and location. Define falsification before expression.",
+          "outputs": [
+            "Reading SOP",
+            "Falsification card",
+            "Failure library"
+          ],
+          "metric": "Exits are rule-based and reviewable"
+        },
+        "execution": {
+          "definition": "Write parameters into rules and log every decision.",
+          "outputs": [
+            "Parameter sheet",
+            "Execution scorecard",
+            "Weekly review template"
+          ],
+          "metric": "Consistency improves over time"
+        }
+      }
+    }
+  },
+  "pillars": {
+    "eyebrow": "Three pillars",
+    "title": "A closed loop: Mind × Market × Price Action",
+    "lead": "Strategies are an expression. The ceiling is defined by how you read the market, execute rules, and stay consistent under stress.",
+    "mind": {
+      "title": "Mind",
+      "def": "Remove emotion from the decision chain and return execution to rules.",
+      "p1": "Identify triggers: impulsive entries, revenge trades, overtrading",
+      "p2": "Build guardrails: pre-trade checks and hard limits",
+      "p3": "Review behavior: post-loss patterns and corrective actions"
+    },
+    "market": {
+      "title": "Market",
+      "def": "Read price through structure and narrative—not signals.",
+      "p1": "Recognize regimes: trend, range, transition, participant shifts",
+      "p2": "Build a framework: narrative, liquidity, and key locations",
+      "p3": "Make it reusable: a consistent breakdown template"
+    },
+    "price": {
+      "title": "Price Action",
+      "def": "Read force and location: where it pushes, where it fails, how it falsifies.",
+      "p1": "Force: the quality of impulse and pullback",
+      "p2": "Location: structural pivots and risk boundaries",
+      "p3": "Falsification: failure patterns and exit rules"
+    },
+    "cta": "See the modules"
+  },
+  "path": {
+    "eyebrow": "Training path",
+    "title": "From ideas to process: five steps to an operating system",
+    "lead": "Each step includes actions, deliverables, and evaluation criteria—so learning turns into repeatable execution.",
+    "steps": {
+      "s1": {
+        "title": "Perception (Market)",
+        "do": "Run one structured breakdown each week: narrative, regime, key locations.",
+        "deliver": [
+          "Breakdown template",
+          "Regime checklist"
+        ],
+        "metric": "Can you explain different markets with one framework?"
+      },
+      "s2": {
+        "title": "Discipline (Mind)",
+        "do": "Remove impulse via pre-trade checks and hard limits.",
+        "deliver": [
+          "Pre-trade checklist",
+          "Trigger list"
+        ],
+        "metric": "Do rule violations trend down over time?"
+      },
+      "s3": {
+        "title": "Structure (Price Action)",
+        "do": "Use an SOP to judge push/failure and define falsification points.",
+        "deliver": [
+          "Reading SOP",
+          "Falsification card"
+        ],
+        "metric": "Are exits rule-based and reviewable?"
+      },
+      "s4": {
+        "title": "Execution (SOP)",
+        "do": "Write risk parameters into rules and log every decision.",
+        "deliver": [
+          "Parameter sheet",
+          "Execution scorecard"
+        ],
+        "metric": "Does execution consistency improve?"
+      },
+      "s5": {
+        "title": "Review (Iteration)",
+        "do": "Publish a weekly review: evidence, error types, corrective actions.",
+        "deliver": [
+          "Weekly review template",
+          "Error taxonomy"
+        ],
+        "metric": "Does recurrence of the same errors decline?"
+      }
+    },
+    "cta": "See programs"
+  },
+  "matrix": {
+    "eyebrow": "Content",
+    "title": "Insights that serve training: articles × videos × courses",
+    "lead": "Each piece supports the path: a framework, an action, and criteria for falsification.",
+    "tabs": {
+      "articles": "Articles",
+      "videos": "Video",
+      "courses": "Courses"
+    },
+    "lessonsShort": " lessons",
+    "hoursShort": "h",
+    "courseYouGet": "You will get",
+    "courseAccess": "Access",
+    "courseCta": "View course",
+    "ctaAllArticles": "All articles",
+    "ctaAllVideos": "All videos",
+    "ctaAllCourses": "All courses"
+  },
+  "tools": {
+    "eyebrow": "Tools",
+    "title": "Make risk and execution explicit",
+    "lead": "Trading is not intuition. Define risk. Define rules. Make the process repeatable.",
+    "cards": {
+      "position": {
+        "title": "Position sizing",
+        "desc": "Derive size from risk amount and stop distance."
+      },
+      "rr": {
+        "title": "Risk–reward",
+        "desc": "Make R:R part of the plan—not the story after."
+      },
+      "pip": {
+        "title": "Pip value & PnL",
+        "desc": "Compute pip value and PnL cleanly—before you size up."
+      }
+    },
+    "cta": "Open tools"
+  },
+  "proof": {
+    "eyebrow": "Evidence",
+    "title": "No promises—only a reviewable process",
+    "lead": "I don’t promise returns. I build a process you can track: discipline, review quality, and stable perception under stress.",
+    "cta": "See more"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Questions",
+    "lead": "Define boundaries first. Training only works with clear constraints.",
+    "items": {
+      "q1": {
+        "q": "Do you promise returns?",
+        "a": "No. Trading involves significant risk and any return promise is not credible. The goal here is a trainable, auditable process: a framework, disciplined execution, and a review loop."
+      },
+      "q2": {
+        "q": "Who is this for?",
+        "a": "If you’re willing to log, review, and train consistency. You don’t need to be perfect—you need to be honest about your patterns."
+      },
+      "q3": {
+        "q": "Who is this not for?",
+        "a": "If you only want entry/exit signals, refuse to log and review, or treat trading as emotional release."
+      },
+      "q4": {
+        "q": "How much time does it take?",
+        "a": "A weekly breakdown, a weekly written review, and daily execution logging. The cadence adapts to your schedule and frequency."
+      },
+      "q5": {
+        "q": "What’s the recommended order?",
+        "a": "Framework (Market) and discipline (Mind) first, then structured reading (Price Action), then formalize rules into an SOP and iterate through reviews."
+      },
+      "q6": {
+        "q": "How does 1:1 auditing work?",
+        "a": "We work from your logs and reviews: identify error types, set guardrails, formalize parameters, and output your SOP plus a baseline scorecard."
+      },
+      "q7": {
+        "q": "What if I’m a beginner?",
+        "a": "Skill is not the first bottleneck. The starting point is logging and review. Consistency comes from training, not talent."
+      },
+      "q8": {
+        "q": "Is this financial advice?",
+        "a": "No. This site is for education and discussion only. Nothing here is investment advice."
+      },
+      "q9": {
+        "q": "Do you provide signals?",
+        "a": "No. The work is framework and discipline: define a rationale, define falsification, and review execution. Signals don’t build repeatability."
+      },
+      "q10": {
+        "q": "Where is the risk disclosure?",
+        "a": "You’ll find it in the footer and the Terms page. Confirm your risk tolerance and plan risk before trading."
+      }
+    }
+  },
+  "finalCta": {
+    "title": "Turn trading into a process you can train",
+    "lead": "Build perception and discipline first. Strategies are an output—not a shortcut.",
+    "primary": "Learn about us",
+    "secondary": "Book a call"
+  },
+  "about": {
+    "eyebrow": "About FxLocus",
+    "title": "A training system, not a signal feed",
+    "lead": "Built around Mind, Market, and Price Action—so execution becomes auditable and repeatable.",
+    "videoDisclaimer": "Disclaimer: This content is for education and training only. Not investment advice and no performance promises.",
+    "buttons": {
+      "framework": "Explore the framework",
+      "contact": "Contact us"
+    },
+    "body": {
+      "p1": "FxLocus is built for real traders across FX, Gold, Indices, and Crypto.",
+      "p2": "No signals. No performance promises. Just a structured path you can train and review.",
+      "p3": "Use the framework, templates, and tools to turn decisions into a record."
+    },
+    "blocks": {
+      "philosophyTitle": "Philosophy",
+      "methodTitle": "Method",
+      "loopTitle": "Training loop",
+      "loopItems": [
+        "Write context and falsification before you act.",
+        "Execute within a clear risk boundary and log decisions.",
+        "Review behavior with evidence, then iterate one variable."
+      ]
+    },
+    "expand": {
+      "eyebrow": "Expansion bay",
+      "title": "Reserved media slot",
+      "lead": "A placeholder for future videos, live replays, or course demos.",
+      "items": [
+        "Live snippets",
+        "Course previews",
+        "Trade review demos"
+      ],
+      "placeholder": "Reserved space for expandable video window"
+    }
+  },
+  "realPath": {
+    "eyebrow": "Training path",
+    "title": "Five steps with deliverables and metrics",
+    "lead": "Each step includes an action, outputs, and an evaluation metric—built for repeatability."
+  },
+  "artifacts": {
+    "eyebrow": "Artifacts",
+    "title": "Deliverables you can reuse",
+    "lead": "Not slogans—template fragments you can drop into your process."
+  },
+  "markets": {
+    "eyebrow": "Markets",
+    "title": "FX / Gold / Indices / Crypto",
+    "lead": "For each market: common pitfalls, training focus, and a typical scenario—using one consistent lens.",
+    "labels": {
+      "pitfalls": "Pitfalls",
+      "focus": "Training focus",
+      "scenario": "Scenario"
+    }
+  }
+}

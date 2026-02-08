@@ -1,0 +1,230 @@
+[
+  {
+    "locale": "zh",
+    "slug": "video-execution-gate",
+    "title": "执行闸门：下单前的最后一道门",
+    "excerpt": "把交易从“临场发挥”改成“条件通过才允许表达”。闸门不是限制你，而是保护你的一致性。",
+    "pillar": "mind",
+    "tags": ["discipline", "gate", "execution"],
+    "publishedAt": "2025-01-10",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/aaaaaaaaaaa",
+    "durationMin": 12,
+    "points": [
+      "闸门的目标：先验证结构与风险，再讨论入场方式",
+      "Fail 的三类常见原因：位置不清、证伪不清、风险不清",
+      "把“冲动”变成“延迟+检查表”的固定动作"
+    ],
+    "homework": "做一张你自己的执行闸门：写清楚结构、证伪、风险上限与 Fail 规则。",
+    "relatedSlugs": ["execution-gate", "post-loss-24h-protocol", "discipline-by-design"]
+  },
+  {
+    "locale": "zh",
+    "slug": "video-post-loss-protocol",
+    "title": "亏损冷却协议：连续亏损后的 24 小时规则",
+    "excerpt": "亏损不可怕，可怕的是亏损后的第二次错误。把冷却期写成规则，才能稳定执行。",
+    "pillar": "mind",
+    "tags": ["loss", "protocol", "discipline"],
+    "publishedAt": "2025-01-12",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/bbbbbbbbbbb",
+    "durationMin": 10,
+    "points": [
+      "连续亏损时，你的决策系统会被情绪接管",
+      "冷却期不是休息，是强制切换到复盘模式",
+      "用频率限制+闸门加严，避免报复性交易"
+    ],
+    "homework": "为“连续亏损 2 笔/3 笔”分别写一套冷却规则与恢复条件。",
+    "relatedSlugs": ["post-loss-24h-protocol", "trigger-map-revenge", "overtrading-chain"]
+  },
+  {
+    "locale": "zh",
+    "slug": "video-overtrading",
+    "title": "过度交易治理：切断冲动链条",
+    "excerpt": "过度交易通常不是机会太多，而是缺乏结构与节奏。治理的关键是定义交易窗口与非交易清单。",
+    "pillar": "mind",
+    "tags": ["overtrading", "discipline", "schedule"],
+    "publishedAt": "2025-01-15",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/ccccccccccc",
+    "durationMin": 11,
+    "points": [
+      "把“想下单”分解为触发器→动作→奖励",
+      "建立交易窗口：哪些时段允许表达，哪些时段只观察",
+      "用“非交易清单”减少无结构尝试"
+    ],
+    "homework": "定义你的交易窗口（时段/频率/最大订单数）与非交易清单（至少 8 条）。",
+    "relatedSlugs": ["overtrading-chain", "trading-schedule", "execution-gate"]
+  },
+  {
+    "locale": "zh",
+    "slug": "video-trigger-map",
+    "title": "触发器地图：下单前的情绪来源",
+    "excerpt": "很多错误不是技术问题，而是触发器触发后的自动驾驶。先看见触发器，才可能改变执行。",
+    "pillar": "mind",
+    "tags": ["triggers", "logging", "behavior"],
+    "publishedAt": "2025-01-18",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/ddddddddddd",
+    "durationMin": 9,
+    "points": [
+      "触发器分类：FOMO/报复/确认偏误/无聊交易",
+      "两周记录模板：情绪、身体信号、外部刺激",
+      "把触发器接到闸门：延迟 3 分钟再决策"
+    ],
+    "homework": "连续两周记录每次下单前的状态，并统计最常见的触发器。",
+    "relatedSlugs": ["trigger-map-revenge", "execution-gate", "discipline-by-design"]
+  },
+  {
+    "locale": "zh",
+    "slug": "video-regime-identification",
+    "title": "市场阶段识别：先识别阶段再表达策略",
+    "excerpt": "同一套打法在不同阶段表现不同。阶段识别的目的，是让表达有边界、有节奏。",
+    "pillar": "market",
+    "tags": ["regime", "structure", "context"],
+    "publishedAt": "2025-01-21",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/eeeeeeeeeee",
+    "durationMin": 13,
+    "points": [
+      "趋势/震荡/转折：关注参与者与约束变化",
+      "用多周期对齐表写出“方向与边界”",
+      "阶段不清时，默认减仓或不交易"
+    ],
+    "homework": "用同一张阶段清单判断 EURUSD / XAUUSD / US500 / BTC 四个市场。",
+    "relatedSlugs": ["regimes-over-patterns", "htf-ltf-alignment", "weekly-structure-report"]
+  },
+  {
+    "locale": "zh",
+    "slug": "video-liquidity-location",
+    "title": "流动性与关键位置：止损为什么总被扫",
+    "excerpt": "位置决定风险边界。你的止损经常被扫，不是运气差，而是你把止损放在“显眼的位置”。",
+    "pillar": "market",
+    "tags": ["liquidity", "location", "risk"],
+    "publishedAt": "2025-01-24",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/fffffffffff",
+    "durationMin": 12,
+    "points": [
+      "流动性不是阴谋，是市场撮合的必然",
+      "关键位置：谁会被迫行动、谁会获利了结",
+      "止损应当放在结构证伪点，而不是固定距离"
+    ],
+    "homework": "复盘最近 20 笔止损：标注“被扫的位置类型”与更合理的证伪点。",
+    "relatedSlugs": ["liquidity-key-locations", "three-location-types", "false-breakouts"]
+  },
+  {
+    "locale": "zh",
+    "slug": "video-weekly-breakdown",
+    "title": "周结构报告：把信息变成可执行结论",
+    "excerpt": "每周一份结构报告训练“框架稳定性”。你要写的不是观点，而是可执行边界与证伪。",
+    "pillar": "market",
+    "tags": ["weekly", "report", "perception"],
+    "publishedAt": "2025-01-27",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/ggggggggggg",
+    "durationMin": 14,
+    "points": [
+      "固定字段：阶段、关键位置、叙事、波动环境",
+      "输出：本周允许表达的场景 + 禁区",
+      "把周报告接到执行闸门与周复盘"
+    ],
+    "homework": "写一份“1 页周结构报告”，并在下周每天用它校验你的交易理由。",
+    "relatedSlugs": ["weekly-structure-report", "session-rhythm", "volatility-and-parameters"]
+  },
+  {
+    "locale": "zh",
+    "slug": "video-volatility-context",
+    "title": "波动环境：参数不是一套跑所有市场",
+    "excerpt": "波动决定仓位与止损宽度。把波动写成参数规则，你才能在不同资产保持一致性。",
+    "pillar": "market",
+    "tags": ["volatility", "parameters", "risk"],
+    "publishedAt": "2025-01-30",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/hhhhhhhhhhh",
+    "durationMin": 11,
+    "points": [
+      "用 ATR/区间波幅给市场分层：低/中/高",
+      "参数规则：止损宽度、仓位、持仓时间",
+      "冲动加仓往往发生在高波动环境"
+    ],
+    "homework": "给你的交易资产做波动分层表，并写出参数调整规则。",
+    "relatedSlugs": ["volatility-and-parameters", "risk-is-story-cost", "overtrading-chain"]
+  },
+  {
+    "locale": "zh",
+    "slug": "video-three-sentence",
+    "title": "三句法：力量×位置×证伪写一条交易",
+    "excerpt": "把交易理由写成三句话：力量、位置、证伪。写不出来，就说明你没有边界。",
+    "pillar": "price_action",
+    "tags": ["force", "location", "falsification"],
+    "publishedAt": "2025-02-02",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/iiiiiiiiiii",
+    "durationMin": 9,
+    "points": [
+      "力量：推进与回撤的质量",
+      "位置：结构边界与风险范围",
+      "证伪：失败触发点与退出动作"
+    ],
+    "homework": "从你的截图中挑 10 张图，每张写一条三句法交易理由。",
+    "relatedSlugs": ["three-sentence-method", "write-falsification", "location-context"]
+  },
+  {
+    "locale": "zh",
+    "slug": "video-falsification-card",
+    "title": "证伪卡：写不出证伪就别下单",
+    "excerpt": "证伪让你从希望回到概率。证伪不是“觉得不对”，而是可触发的失败条件。",
+    "pillar": "price_action",
+    "tags": ["falsification", "exits", "risk"],
+    "publishedAt": "2025-02-04",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/jjjjjjjjjjj",
+    "durationMin": 10,
+    "points": [
+      "证伪写法：结构破坏/推进失败/边界失守",
+      "退出不是情绪，是动作：触发即执行",
+      "证伪越清晰，复盘越有效"
+    ],
+    "homework": "为最近 10 笔交易补写证伪句，并在复盘里检查是否按规则退出。",
+    "relatedSlugs": ["write-falsification", "exit-as-evidence-change", "breakout-retest"]
+  },
+  {
+    "locale": "zh",
+    "slug": "video-breakout-retest",
+    "title": "突破与回测：你交易的是回测是否成立",
+    "excerpt": "突破本身不重要，回测是否站稳才决定成功率。把表达放在证据出现之后。",
+    "pillar": "price_action",
+    "tags": ["breakout", "retest", "structure"],
+    "publishedAt": "2025-02-06",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/kkkkkkkkkkk",
+    "durationMin": 12,
+    "points": [
+      "突破失败多发生在“位置不清”的中间区域",
+      "回测的关键：失败形态是否出现",
+      "用证伪点控制“追涨杀跌”冲动"
+    ],
+    "homework": "收集 20 个突破案例：标注回测是否成立，并写出证伪点。",
+    "relatedSlugs": ["breakout-retest", "false-breakouts", "write-falsification"]
+  },
+  {
+    "locale": "zh",
+    "slug": "video-reversal-evidence",
+    "title": "反转的证据链：失败推进 + 位置抵抗",
+    "excerpt": "反转不是形态名字，而是失败推进与关键位置抵抗组成的序列。用序列判断，避免猜顶猜底。",
+    "pillar": "price_action",
+    "tags": ["reversal", "failure", "sequence"],
+    "publishedAt": "2025-02-09",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/lllllllllll",
+    "durationMin": 13,
+    "points": [
+      "先看推进质量变差，再看边界是否失守",
+      "反转确认：二次测试失败而不是一次大阴线",
+      "冲突周期：默认减仓或放弃"
+    ],
+    "homework": "把你最常做错的反转场景写成“确认序列”，并放进闸门 Fail 条件。",
+    "relatedSlugs": ["reversal-as-failure", "transition-vs-evidence", "location-context"]
+  }
+]

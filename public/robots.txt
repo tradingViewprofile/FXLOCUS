@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /en/system/
+Disallow: /zh/system/
+Disallow: /system/
+Disallow: /admin/
+Disallow: /dashboard/
+Disallow: /api/
+Allow: /
+
+Sitemap: https://www.fxlocus.com/sitemap.xml

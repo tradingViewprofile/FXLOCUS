@@ -1,0 +1,57 @@
+[
+  {
+    "locale": "zh",
+    "slug": "execution-gate-template",
+    "title": "执行闸门模板（Pre-trade gate）",
+    "description": "下单前卡片：阶段/位置/力量/证伪/风险上限 -> Pass/Fail。",
+    "fileUrl": "/downloads/execution-gate.md",
+    "format": "md",
+    "category": "system"
+  },
+  {
+    "locale": "zh",
+    "slug": "weekly-review-template",
+    "title": "周复盘模板（Weekly review）",
+    "description": "证据链、Top 违规、纠正动作、下周计划与禁区。",
+    "fileUrl": "/downloads/weekly-review.md",
+    "format": "md",
+    "category": "system"
+  },
+  {
+    "locale": "zh",
+    "slug": "falsification-card-template",
+    "title": "证伪卡模板（Falsification card）",
+    "description": "把失败条件写清楚：触发点 + 退出动作 + 复盘字段。",
+    "fileUrl": "/downloads/falsification-card.md",
+    "format": "md",
+    "category": "system"
+  },
+  {
+    "locale": "zh",
+    "slug": "pre-trade-checklist-template",
+    "title": "交易前检查表（Pre-trade checklist）",
+    "description": "用检查表减少临场发挥：结构/风险/证伪/状态。",
+    "fileUrl": "/downloads/pre-trade-checklist.md",
+    "format": "md",
+    "category": "templates"
+  },
+  {
+    "locale": "zh",
+    "slug": "post-loss-protocol-template",
+    "title": "亏损冷却协议（Post-loss protocol）",
+    "description": "连亏后的强制规则：冷却、降频、复盘与恢复条件。",
+    "fileUrl": "/downloads/post-loss-protocol.md",
+    "format": "md",
+    "category": "templates"
+  },
+  {
+    "locale": "zh",
+    "slug": "volatility-context-table-template",
+    "title": "波动环境分层表（Volatility tiers）",
+    "description": "低/中/高波动分层与参数规则：止损宽度/仓位/持仓时间。",
+    "fileUrl": "/downloads/volatility-context-table.md",
+    "format": "md",
+    "category": "tools"
+  }
+]
+

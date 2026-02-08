@@ -1,0 +1,231 @@
+[
+  {
+    "locale": "en",
+    "slug": "video-execution-gate",
+    "title": "Execution gate: the last filter before you express",
+    "excerpt": "Turn trading from improvisation into controlled expression. A gate protects consistency, not ego.",
+    "pillar": "mind",
+    "tags": ["discipline", "gate", "execution"],
+    "publishedAt": "2025-01-10",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/aaaaaaaaaaa",
+    "durationMin": 12,
+    "points": [
+      "Validate structure and risk before entry style",
+      "Three fail reasons: unclear location, unclear falsification, unclear risk",
+      "Convert impulse into delay + checklist"
+    ],
+    "homework": "Draft your own gate: structure, falsification, risk caps, and fail rules.",
+    "relatedSlugs": ["execution-gate", "post-loss-24h-protocol", "discipline-by-design"]
+  },
+  {
+    "locale": "en",
+    "slug": "video-post-loss-protocol",
+    "title": "Post-loss protocol: the 24-hour rule",
+    "excerpt": "Loss is fine. The second mistake is expensive. Write a cooldown as rules to protect execution.",
+    "pillar": "mind",
+    "tags": ["loss", "protocol", "discipline"],
+    "publishedAt": "2025-01-12",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/bbbbbbbbbbb",
+    "durationMin": 10,
+    "points": [
+      "Under a loss streak, emotion takes the decision system",
+      "Cooldown is not rest—it’s review mode",
+      "Use stricter gates to avoid revenge trades"
+    ],
+    "homework": "Write cooldown rules for 2-loss and 3-loss streaks, plus recovery conditions.",
+    "relatedSlugs": ["post-loss-24h-protocol", "trigger-map-revenge", "overtrading-chain"]
+  },
+  {
+    "locale": "en",
+    "slug": "video-overtrading",
+    "title": "Overtrading: cut the impulse chain",
+    "excerpt": "Overtrading is often a lack of structure, not opportunities. Define windows and a no-trade list.",
+    "pillar": "mind",
+    "tags": ["overtrading", "discipline", "schedule"],
+    "publishedAt": "2025-01-15",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/ccccccccccc",
+    "durationMin": 11,
+    "points": [
+      "Decompose: trigger → action → reward",
+      "Define trading windows: express vs observe",
+      "No-trade list reduces unstructured attempts"
+    ],
+    "homework": "Define your windows (sessions/frequency/max orders) and a no-trade list (8+ items).",
+    "relatedSlugs": ["overtrading-chain", "trading-schedule", "execution-gate"]
+  },
+  {
+    "locale": "en",
+    "slug": "video-trigger-map",
+    "title": "Trigger map before orders",
+    "excerpt": "Many mistakes are not technical. They are autopilot responses. Map triggers to change execution.",
+    "pillar": "mind",
+    "tags": ["triggers", "logging", "behavior"],
+    "publishedAt": "2025-01-18",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/ddddddddddd",
+    "durationMin": 9,
+    "points": [
+      "Taxonomy: FOMO, revenge, confirmation bias, boredom trades",
+      "Two-week template: emotion, bodily cues, external stimuli",
+      "Delay 3 minutes, then run the gate"
+    ],
+    "homework": "Log your pre-trade state for two weeks and rank the most common triggers.",
+    "relatedSlugs": ["trigger-map-revenge", "execution-gate", "discipline-by-design"]
+  },
+  {
+    "locale": "en",
+    "slug": "video-regime-identification",
+    "title": "Regime identification before tactics",
+    "excerpt": "The same tactic behaves differently across regimes. Identify first so expression has bounds and cadence.",
+    "pillar": "market",
+    "tags": ["regime", "structure", "context"],
+    "publishedAt": "2025-01-21",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/eeeeeeeeeee",
+    "durationMin": 13,
+    "points": [
+      "Trend/range/transition: focus on participant constraints",
+      "Write direction and bounds via MTF alignment",
+      "When regime is unclear, size down or pass"
+    ],
+    "homework": "Use one checklist to classify EURUSD, XAUUSD, US500, and BTC.",
+    "relatedSlugs": ["regimes-over-patterns", "htf-ltf-alignment", "weekly-structure-report"]
+  },
+  {
+    "locale": "en",
+    "slug": "video-liquidity-location",
+    "title": "Liquidity & key locations",
+    "excerpt": "Location defines risk boundaries. If your stops get swept, you may be placing them in obvious spots.",
+    "pillar": "market",
+    "tags": ["liquidity", "location", "risk"],
+    "publishedAt": "2025-01-24",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/fffffffffff",
+    "durationMin": 12,
+    "points": [
+      "Liquidity is not conspiracy—it’s matching mechanics",
+      "Key locations: who is forced to act, who is taking profit",
+      "Stops belong at structural falsification—not fixed distance"
+    ],
+    "homework": "Review last 20 stops and rewrite a better falsification point per trade.",
+    "relatedSlugs": ["liquidity-key-locations", "three-location-types", "false-breakouts"]
+  },
+  {
+    "locale": "en",
+    "slug": "video-weekly-breakdown",
+    "title": "Weekly breakdown report",
+    "excerpt": "One report per week trains stable perception. Write bounds and falsification, not opinions.",
+    "pillar": "market",
+    "tags": ["weekly", "report", "perception"],
+    "publishedAt": "2025-01-27",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/ggggggggggg",
+    "durationMin": 14,
+    "points": [
+      "Fields: regime, key locations, narrative, volatility context",
+      "Outputs: allowed scenarios + no-trade zones",
+      "Connect weekly report to gate and weekly review"
+    ],
+    "homework": "Write a one-page weekly report and use it daily to validate your reasoning.",
+    "relatedSlugs": ["weekly-structure-report", "session-rhythm", "volatility-and-parameters"]
+  },
+  {
+    "locale": "en",
+    "slug": "video-volatility-context",
+    "title": "Volatility context: parameters must adapt",
+    "excerpt": "Volatility sets stop width and size. Write volatility into parameter rules to stay consistent across assets.",
+    "pillar": "market",
+    "tags": ["volatility", "parameters", "risk"],
+    "publishedAt": "2025-01-30",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/hhhhhhhhhhh",
+    "durationMin": 11,
+    "points": [
+      "Tier markets: low/medium/high volatility",
+      "Rules: stop width, size, holding time",
+      "Impulse scaling often happens in high volatility"
+    ],
+    "homework": "Build a volatility tier table for your assets and write parameter adjustment rules.",
+    "relatedSlugs": ["volatility-and-parameters", "risk-is-story-cost", "overtrading-chain"]
+  },
+  {
+    "locale": "en",
+    "slug": "video-three-sentence",
+    "title": "Three-sentence method: force × location × falsification",
+    "excerpt": "Write your trade in three sentences. If you can’t, you don’t have boundaries.",
+    "pillar": "price_action",
+    "tags": ["force", "location", "falsification"],
+    "publishedAt": "2025-02-02",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/iiiiiiiiiii",
+    "durationMin": 9,
+    "points": [
+      "Force: impulse/pullback quality",
+      "Location: boundary and risk frame",
+      "Falsification: failure trigger and exit action"
+    ],
+    "homework": "Pick 10 charts and write one trade per chart using the method.",
+    "relatedSlugs": ["three-sentence-method", "write-falsification", "location-context"]
+  },
+  {
+    "locale": "en",
+    "slug": "video-falsification-card",
+    "title": "Falsification card",
+    "excerpt": "Falsification returns you from hope back to probability. It must be triggerable, not emotional.",
+    "pillar": "price_action",
+    "tags": ["falsification", "exits", "risk"],
+    "publishedAt": "2025-02-04",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/jjjjjjjjjjj",
+    "durationMin": 10,
+    "points": [
+      "Write as: structural break / impulse failure / boundary loss",
+      "Exits are actions: trigger → execute",
+      "Clear falsification improves reviews"
+    ],
+    "homework": "Rewrite falsification sentences for 10 trades and review exit execution.",
+    "relatedSlugs": ["write-falsification", "exit-as-evidence-change", "breakout-retest"]
+  },
+  {
+    "locale": "en",
+    "slug": "video-breakout-retest",
+    "title": "Breakout & retest",
+    "excerpt": "Breakout is not the edge. Retest validity is. Express after evidence shows up.",
+    "pillar": "price_action",
+    "tags": ["breakout", "retest", "structure"],
+    "publishedAt": "2025-02-06",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/kkkkkkkkkkk",
+    "durationMin": 12,
+    "points": [
+      "Most breakout failures come from unclear location",
+      "Retest key: failure pattern presence",
+      "Use falsification to avoid chasing"
+    ],
+    "homework": "Collect 20 breakout cases: label retest validity and write falsification.",
+    "relatedSlugs": ["breakout-retest", "false-breakouts", "write-falsification"]
+  },
+  {
+    "locale": "en",
+    "slug": "video-reversal-evidence",
+    "title": "Reversal evidence chain",
+    "excerpt": "Reversals are sequences: failed impulse + boundary resistance. Use sequences to avoid guessing.",
+    "pillar": "price_action",
+    "tags": ["reversal", "failure", "sequence"],
+    "publishedAt": "2025-02-09",
+    "provider": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/lllllllllll",
+    "durationMin": 13,
+    "points": [
+      "First: impulse quality degrades, then boundary tests",
+      "Confirm via failed retest—not one big candle",
+      "In timeframe conflict: size down or pass"
+    ],
+    "homework": "Write your common reversal mistake as a confirmation sequence and add it to gate fail rules.",
+    "relatedSlugs": ["reversal-as-failure", "transition-vs-evidence", "location-context"]
+  }
+]
+

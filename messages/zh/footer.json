@@ -1,0 +1,73 @@
+{
+  "brand": {
+    "primary": "汇点核心交易",
+    "secondary": "FxLocus Trading",
+    "subtitle": "交易心理 / 市场认知 / K线本质",
+    "tagline": "为真实交易员建立可执行的训练系统",
+    "description": "结构化训练、周度复盘与审计机制，帮助执行变成可复现流程。",
+    "tags": ["结构化训练", "风险纪律", "周度复盘"]
+  },
+  "columns": [
+    {
+      "title": "关于 FxLocus",
+      "items": [
+        { "label": "了解我们", "href": "/about" },
+        { "label": "核心体系", "href": "/framework" },
+        { "label": "课程与服务", "href": "/programs" },
+        { "label": "联系与预约", "href": "/contact" }
+      ]
+    },
+    {
+      "title": "训练资源",
+      "items": [
+        { "label": "思想文章", "href": "/insights" },
+        { "label": "视频中心", "href": "/videos" },
+        { "label": "课程系统", "href": "/courses" },
+        { "label": "汇点学院", "href": "/academy" },
+        { "label": "常见问题", "href": "/faq" }
+      ]
+    },
+    {
+      "title": "行情与工具",
+      "items": [
+        { "label": "行情工作台", "href": "/markets" },
+        { "label": "新闻终端", "href": "/news" },
+        { "label": "工具箱", "href": "/tools" },
+        { "label": "下载中心", "href": "/downloads" }
+      ]
+    },
+    {
+      "title": "服务支持",
+      "items": [
+        { "label": "隐私政策", "href": "/privacy" },
+        { "label": "服务条款", "href": "/terms" },
+        { "label": "风险披露", "href": "/terms#risk" },
+        { "label": "系统入口", "href": "/system/login" }
+      ]
+    }
+  ],
+  "quickLinks": [
+    { "label": "隐私政策", "href": "/privacy" },
+    { "label": "服务条款", "href": "/terms" },
+    { "label": "风险披露", "href": "/terms#risk" },
+    { "label": "联系我们", "href": "/contact" }
+  ],
+  "disclaimers": [
+    "风险提示：本平台内容仅用于学习与训练，不构成投资建议或收益承诺。",
+    "数据提示：行情/图表可能存在延迟，具体以交易场所数据为准。",
+    "第三方声明：部分数据与图表由第三方服务提供，相关商标归其所有。"
+  ],
+  "socialTitle": "社媒与社区",
+  "social": {
+    "youtube": "YouTube",
+    "douyin": "抖音",
+    "zhihu": "知乎",
+    "wechat": "微信",
+    "telegram": "Telegram",
+    "discord": "Discord",
+    "x": "X",
+    "facebook": "Facebook",
+    "whatsapp": "WhatsApp"
+  },
+  "copyright": "(c) 2026 FxLocus Trading. 保留所有权利"
+}

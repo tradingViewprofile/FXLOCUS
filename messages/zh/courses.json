@@ -1,0 +1,41 @@
+{
+  "hero": {
+    "title": "课程：结构化练习，而不是灵感鸡汤",
+    "subtitle": "课程把核心体系变成可执行序列：课节、作业与可复盘的交付物。你会反复练同一件事：写上下文、写证伪、按风险定仓位、在边界内执行、用证据复盘决策。我们不强调“学到多少技巧”，而强调“形成稳定动作”，让执行不再依赖情绪与运气。",
+    "highlights": [
+      "按难度组织，覆盖心理/认知/K线本质。",
+      "交付物优先：模板、作业、复盘记录。",
+      "进度是为了训练习惯，不承诺收益。"
+    ],
+    "cta": {
+      "primary": "进入核心体系",
+      "secondary": "预约交流"
+    },
+    "risk": "仅用于教育与训练，不构成投资建议；交易有风险。"
+  },
+  "title": "课程",
+  "lead": "结构化训练课程：课节、交付物与本地进度（localStorage）。",
+  "access": {
+    "free": "免费",
+    "member": "会员"
+  },
+  "level": {
+    "all": "全部等级",
+    "beginner": "入门",
+    "intermediate": "进阶",
+    "advanced": "高级"
+  },
+  "lessonsTitle": "课节目录",
+  "lessonsLead": "共 {count} 节",
+  "lessonLabel": "第 {index} 节",
+  "progress": "进度",
+  "completed": "已完成",
+  "notCompleted": "未完成",
+  "markComplete": "标记为完成",
+  "markIncomplete": "取消完成标记",
+  "backToCourse": "返回课程",
+  "navigationTitle": "导航",
+  "prevLesson": "上一节",
+  "nextLesson": "下一节"
+}
+

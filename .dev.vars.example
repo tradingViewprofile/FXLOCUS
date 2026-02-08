@@ -1,0 +1,3 @@
+NEXTJS_ENV=development
+SYSTEM_JWT_SECRET=
+APP_BASE_URL=http://localhost:8787

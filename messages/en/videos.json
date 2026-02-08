@@ -1,0 +1,25 @@
+{
+  "hero": {
+    "title": "Videos: compact lessons, clear tasks",
+    "subtitle": "These videos are built for training—not entertainment. Each one focuses on one idea across Mind, Market, or Price Action, and aims to end with a concrete task you can write down and review later. Rebuild perception and execution first; use video as a prompt to practice clarity, not as a shortcut to signals.",
+    "highlights": [
+      "Short format to reduce noise and keep attention on execution.",
+      "A training task attached whenever possible.",
+      "Designed to pair with articles and templates."
+    ],
+    "cta": {
+      "primary": "Explore the framework",
+      "secondary": "Book a call"
+    },
+    "risk": "Educational content only. Not investment advice; trading involves risk."
+  },
+  "title": "Videos",
+  "lead": "Short, structured explanations that support the training path—paired with clear tasks.",
+  "detail": {
+    "keyPoints": "Key points",
+    "homework": "Training task",
+    "homeworkFallback": "Apply the template from the related Insight and write a short reviewable note.",
+    "related": "Related insights"
+  }
+}
+

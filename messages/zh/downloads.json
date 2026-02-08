@@ -1,0 +1,16 @@
+{
+  "title": "下载中心",
+  "lead": "可直接使用的模板：执行闸门、周复盘、证伪卡等。",
+  "categories": {
+    "templates": "模板",
+    "system": "系统",
+    "tools": "工具"
+  },
+  "formats": {
+    "md": "Markdown",
+    "pdf": "PDF",
+    "png": "PNG",
+    "json": "JSON"
+  }
+}
+

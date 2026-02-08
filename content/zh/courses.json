@@ -1,0 +1,192 @@
+[
+  {
+    "locale": "zh",
+    "slug": "14-day-discipline-reset",
+    "title": "14天纪律重建",
+    "excerpt": "把执行做成系统：闸门、冷却、退出语言、规则漂移识别与周复盘。",
+    "pillar": "mind",
+    "tags": ["discipline", "gate", "review"],
+    "publishedAt": "2025-02-01",
+    "level": "beginner",
+    "access": "free",
+    "estimatedHours": 6,
+    "lessons": [
+      {
+        "slug": "day1-profile-triggers",
+        "title": "Day 1｜交易者画像与触发器",
+        "orderIndex": 1,
+        "durationMin": 35,
+        "contentMd": "## 目标\\n把“下单冲动”从行为里拆出来：触发器、情绪、身体信号、外部刺激。\\n\\n## 今日动作\\n- 记录 10 次冲动：当时你想做什么？\\n- 给触发器打标签：FOMO/报复/确认偏误/无聊交易\\n\\n## 交付物\\n- Trigger Map（触发器地图）\\n- 触发→行为映射\\n"
+      },
+      {
+        "slug": "day2-execution-gate",
+        "title": "Day 2｜执行闸门（Pre-trade gate）",
+        "orderIndex": 2,
+        "durationMin": 40,
+        "contentMd": "## 目标\\n让“下单”变成“条件通过后的表达”。\\n\\n## 闸门字段（最小版）\\n- 市场阶段（趋势/震荡/转折）\\n- 位置类型（边界/中间区域）\\n- 力量打分（0-5）\\n- 证伪句（一句话）\\n- 风险上限（单笔/当日）\\n\\n## 今日作业\\n写出你的闸门 Fail 条件（至少 5 条）。\\n"
+      },
+      {
+        "slug": "day3-post-loss-protocol",
+        "title": "Day 3｜亏损冷却协议",
+        "orderIndex": 3,
+        "durationMin": 30,
+        "contentMd": "## 目标\\n防止亏损后的第二次错误。\\n\\n## 规则示例\\n- 连亏 2 笔：暂停 30 分钟 + 只允许复盘\\n- 连亏 3 笔：当天停止交易 + 输出复盘\\n\\n## 今日作业\\n为你自己的“连续亏损状态”写恢复条件。\\n"
+      },
+      {
+        "slug": "day4-overtrading",
+        "title": "Day 4｜过度交易治理",
+        "orderIndex": 4,
+        "durationMin": 35,
+        "contentMd": "## 目标\\n用节奏与窗口治理冲动频率。\\n\\n## 今日动作\\n- 定义交易窗口（允许表达的时段）\\n- 写一张非交易清单（至少 8 条）\\n\\n## 交付物\\n- Trading Schedule（交易日程）\\n- No-trade List\\n"
+      },
+      {
+        "slug": "day5-exit-language",
+        "title": "Day 5｜退出语言（Exit language）",
+        "orderIndex": 5,
+        "durationMin": 35,
+        "contentMd": "## 目标\\n把止盈/止损从“感觉”变成“证据变化”。\\n\\n## 今日动作\\n- 为 5 笔交易写 1 句证伪 + 1 个退出动作\\n- 复盘：是否按动作执行\\n"
+      },
+      {
+        "slug": "day6-rule-drift",
+        "title": "Day 6｜规则漂移识别",
+        "orderIndex": 6,
+        "durationMin": 30,
+        "contentMd": "## 目标\\n识别你是如何“慢慢放松规则”的。\\n\\n## 今日动作\\n- 列出 5 个最常见的漂移方式（加仓、放宽证伪、缩小止损…）\\n- 为每个漂移写一个“停止触发器”\\n"
+      },
+      {
+        "slug": "day7-weekly-review",
+        "title": "Day 7｜周复盘：错误变规则",
+        "orderIndex": 7,
+        "durationMin": 45,
+        "contentMd": "## 目标\\n把本周的错误变成下周的处方。\\n\\n## 输出结构\\n- 证据链：你为什么做？\\n- Top 违规：最多 3 项\\n- 纠正动作：下周 3 条\\n\\n## 今日作业\\n完成一份周复盘，并给自己的执行打分。\\n"
+      }
+    ]
+  },
+  {
+    "locale": "zh",
+    "slug": "weekly-breakdown-camp",
+    "title": "周结构报告训练营",
+    "excerpt": "用固定字段把信息变成“方向与边界”。训练稳定的市场认知，而不是追信号。",
+    "pillar": "market",
+    "tags": ["regime", "weekly", "structure"],
+    "publishedAt": "2025-02-05",
+    "level": "intermediate",
+    "access": "free",
+    "estimatedHours": 7,
+    "lessons": [
+      {
+        "slug": "module1-regime",
+        "title": "模块 1｜市场阶段模板",
+        "orderIndex": 1,
+        "durationMin": 35,
+        "contentMd": "## 目标\\n用同一套标准识别阶段：趋势/震荡/转折。\\n\\n## 输出\\n- 阶段判定清单\\n- 多周期对照表\\n"
+      },
+      {
+        "slug": "module2-locations",
+        "title": "模块 2｜关键位置模板",
+        "orderIndex": 2,
+        "durationMin": 40,
+        "contentMd": "## 目标\\n标注边界与风险范围。\\n\\n## 输出\\n- 关键位置类型：分配位/防守位/反转位\\n- 证伪点写法\\n"
+      },
+      {
+        "slug": "module3-liquidity-narrative",
+        "title": "模块 3｜流动性与叙事",
+        "orderIndex": 3,
+        "durationMin": 40,
+        "contentMd": "## 目标\\n把“新闻”写成“结构影响”，而不是情绪判断。\\n\\n## 输出\\n- 叙事笔记模板\\n- 关键事件记录框架\\n"
+      },
+      {
+        "slug": "module4-volatility",
+        "title": "模块 4｜波动环境与参数",
+        "orderIndex": 4,
+        "durationMin": 35,
+        "contentMd": "## 目标\\n让参数跟着波动环境变化。\\n\\n## 输出\\n- 波动分层表（低/中/高）\\n- 参数调整规则\\n"
+      },
+      {
+        "slug": "module5-one-page-plan",
+        "title": "模块 5｜一页纸交易计划",
+        "orderIndex": 5,
+        "durationMin": 30,
+        "contentMd": "## 目标\\n把周报告变成可执行的每日计划。\\n\\n## 输出\\n- 允许场景（2-3条）\\n- 禁区（2-3条）\\n- 风险上限与节奏\\n"
+      },
+      {
+        "slug": "module6-review-iterate",
+        "title": "模块 6｜复盘与迭代",
+        "orderIndex": 6,
+        "durationMin": 30,
+        "contentMd": "## 目标\\n用周复盘修正你的市场解释。\\n\\n## 输出\\n- 错误分类表\\n- 下周纠正动作\\n"
+      },
+      {
+        "slug": "module7-quality-standard",
+        "title": "模块 7｜每周输出标准",
+        "orderIndex": 7,
+        "durationMin": 25,
+        "contentMd": "## 目标\\n定义“什么叫一份合格的周报告”。\\n\\n## 标准\\n- 结构：阶段/位置/叙事/波动\\n- 可执行：允许场景 + 证伪\\n- 可复盘：周末能回看并迭代\\n"
+      }
+    ]
+  },
+  {
+    "locale": "zh",
+    "slug": "force-location-falsification",
+    "title": "K线本质：力量 × 位置 × 证伪",
+    "excerpt": "用可证伪的语言读图：推进与回撤质量、结构边界、失败触发点。",
+    "pillar": "price_action",
+    "tags": ["force", "location", "falsification"],
+    "publishedAt": "2025-02-10",
+    "level": "intermediate",
+    "access": "free",
+    "estimatedHours": 8,
+    "lessons": [
+      {
+        "slug": "lesson1-force",
+        "title": "课 1｜Force：推进/回撤质量打分",
+        "orderIndex": 1,
+        "durationMin": 40,
+        "contentMd": "## 目标\\n用打分替代形态背诵。\\n\\n## 输出\\n- Force 评分表（0-5）\\n- 示例图库（截图模板）\\n"
+      },
+      {
+        "slug": "lesson2-location",
+        "title": "课 2｜Location：边界与风险范围",
+        "orderIndex": 2,
+        "durationMin": 35,
+        "contentMd": "## 目标\\n只在边界附近表达，避免在中间区域瞎猜。\\n\\n## 输出\\n- 边界定义卡\\n- 枢纽标注 SOP\\n"
+      },
+      {
+        "slug": "lesson3-falsification",
+        "title": "课 3｜Falsification：失败触发点",
+        "orderIndex": 3,
+        "durationMin": 35,
+        "contentMd": "## 目标\\n写不出证伪条件，就说明你没有边界。\\n\\n## 输出\\n- 证伪卡模板\\n- 失败形态库（示例字段）\\n"
+      },
+      {
+        "slug": "lesson4-breakout-retest",
+        "title": "课 4｜突破/回测：表达在证据之后",
+        "orderIndex": 4,
+        "durationMin": 35,
+        "contentMd": "## 目标\\n突破不是边缘，回测是否成立才是。\\n\\n## 输出\\n- 回测确认清单\\n- 证伪点写法\\n"
+      },
+      {
+        "slug": "lesson5-pullback",
+        "title": "课 5｜回撤/续航：质量与位置",
+        "orderIndex": 5,
+        "durationMin": 35,
+        "contentMd": "## 目标\\n你交易的不是回撤本身，而是续航是否成立。\\n\\n## 输出\\n- Pullback 观察表\\n- 续航确认条件\\n"
+      },
+      {
+        "slug": "lesson6-reversal",
+        "title": "课 6｜反转：失败推进 + 位置抵抗",
+        "orderIndex": 6,
+        "durationMin": 40,
+        "contentMd": "## 目标\\n用序列判断反转，避免猜顶猜底。\\n\\n## 输出\\n- 反转序列清单\\n- 延迟进入规则\\n"
+      },
+      {
+        "slug": "lesson7-cases",
+        "title": "课 7｜案例训练：三句法写交易",
+        "orderIndex": 7,
+        "durationMin": 45,
+        "contentMd": "## 目标\\n每张图只写三句话：Force / Location / Falsification。\\n\\n## 输出\\n- 三句法模板\\n- 10 张图作业\\n"
+      }
+    ]
+  }
+]
+

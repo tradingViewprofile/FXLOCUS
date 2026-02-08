@@ -1,0 +1,327 @@
+{
+  "hero": {
+    "title": "FxLocus Academy: From fundamentals to execution",
+    "subtitle": "FxLocus Academy organizes FX knowledge into four modules: Fundamentals, Technical Analysis, Trading Strategies, and Risk Management. Each topic expands into practical points and exercises so you can turn concepts into repeatable actions.",
+    "highlights": [
+      "A complete learning path across basics, tools, strategies, and risk.",
+      "Each topic opens with detailed teaching points.",
+      "Exercises turn understanding into reviewable actions."
+    ],
+    "cta": {
+      "primary": "View programs & services",
+      "secondary": "Book a call"
+    },
+    "risk": "For education and training only. Not investment advice."
+  },
+  "title": "Learning Path Overview",
+  "lead": "Start by learning the trading language and market structure, then train indicators and strategies, and finally lock execution in with risk management.",
+  "sections": [
+    {
+      "title": "Fundamentals",
+      "subtitle": "Build the trading language and understand the market structure first.",
+      "items": [
+        {
+          "title": "FX Trading Basics",
+          "summary": "Understand currency pairs and the core mechanics of FX trading.",
+          "points": [
+            "What is Forex: the global market for currency exchange.",
+            "FX trading is buying or selling a currency pair to profit from exchange rate changes.",
+            "Major pairs, crosses, and commodity currencies - differences and examples.",
+            "Market traits: high liquidity, 24-hour trading, and decentralized execution."
+          ],
+          "practice": "Exercise: list 10 major pairs and mark base vs quote currency."
+        },
+        {
+          "title": "FX Market Structure",
+          "summary": "Know the market participants and session rhythm.",
+          "points": [
+            "Global structure: interbank market at the core, retail at the edge.",
+            "Trading sessions: Asia, Europe, US, and overlapping periods.",
+            "Volatility by session: Asia ranges, London expands, US adds data spikes.",
+            "Market maker vs ECN/STP: pricing, slippage, and execution differences."
+          ],
+          "practice": "Exercise: compare average session volatility for one pair."
+        },
+        {
+          "title": "Spreads and Commissions",
+          "summary": "Know your true transaction cost before trading.",
+          "points": [
+            "Fixed vs floating spreads: stability vs variable liquidity cost.",
+            "Commission calculation: per lot or per side, include round-trip fees.",
+            "Hidden costs: slippage, swaps/rollover, and execution delay.",
+            "True cost = spread + commission + expected slippage."
+          ],
+          "practice": "Exercise: calculate round-trip cost for 1 lot EURUSD on your broker."
+        },
+        {
+          "title": "Leverage and Margin",
+          "summary": "Leverage magnifies exposure and risk - understand the rules.",
+          "points": [
+            "Leverage uses margin to control a larger notional position.",
+            "Initial vs maintenance margin define when you can open and keep a trade.",
+            "Margin calls and liquidation protect the broker when equity drops.",
+            "Common mistakes: using max leverage or ignoring volatility."
+          ],
+          "practice": "Exercise: compute margin required for the same size with different leverage."
+        },
+        {
+          "title": "Macro Data Impact",
+          "summary": "Data moves markets when it surprises expectations.",
+          "points": [
+            "Key releases: NFP, CPI, rate decisions, GDP.",
+            "Pre/post release behavior: positioning, spread widening, whipsaws.",
+            "Expectation vs actual: surprises matter more than absolute numbers.",
+            "Trade/avoid strategies: wait for confirmation or plan the event."
+          ],
+          "practice": "Exercise: review one NFP release and log the 15-minute volatility."
+        },
+        {
+          "title": "Currency Pair Logic",
+          "summary": "Strength, rate differentials, and correlations drive direction.",
+          "points": [
+            "Currency pairs express relative strength, not absolute value.",
+            "Rate differentials drive medium-term flows (carry).",
+            "Safe-haven vs risk currencies behave differently in stress.",
+            "Correlation analysis: positive/negative links like EURUSD vs DXY."
+          ],
+          "practice": "Exercise: compare two correlated pairs and mark co-movement."
+        },
+        {
+          "title": "Market Participants",
+          "summary": "Know who moves the market and why.",
+          "points": [
+            "Central banks: rates, guidance, and intervention.",
+            "Commercial banks: liquidity, hedging, client flows.",
+            "Funds and institutions: trend-driving capital flows.",
+            "Retail traders: smaller size, higher emotion bias."
+          ],
+          "practice": "Exercise: list objectives for three participant types in a crisis."
+        }
+      ]
+    },
+    {
+      "title": "Technical Analysis",
+      "subtitle": "Turn chart tools into trainable pattern recognition.",
+      "items": [
+        {
+          "title": "Bollinger Bands",
+          "summary": "Use volatility bands to read contraction and expansion.",
+          "points": [
+            "Bands are built from a moving average and standard deviations.",
+            "Contraction signals low volatility, expansion signals release.",
+            "Use pullbacks in trends, ranges in sideways markets.",
+            "Common mistake: touching the band without context."
+          ],
+          "practice": "Exercise: mark 3 squeezes that expanded into trends."
+        },
+        {
+          "title": "Candlestick Patterns",
+          "summary": "Candles show intent - context makes them valid.",
+          "points": [
+            "Single candles: hammer, engulfing, doji - key meanings.",
+            "Multi-candle patterns: morning/evening star, inside/outside bars.",
+            "Candles reflect sentiment shifts, not standalone signals.",
+            "High-probability setups need location, trend, and confirmation."
+          ],
+          "practice": "Exercise: label 5 valid engulfing patterns and explain context."
+        },
+        {
+          "title": "MACD in Practice",
+          "summary": "Track momentum changes and trend strength.",
+          "points": [
+            "DIF, DEA, and histogram describe momentum and trend shifts.",
+            "Crossovers are meaningful only with trend context.",
+            "Divergence signals weakening momentum, wait for confirmation.",
+            "Use MACD as a filter, not a standalone trigger."
+          ],
+          "practice": "Exercise: find one top and one bottom divergence, judge validity."
+        },
+        {
+          "title": "EMA System",
+          "summary": "Use EMAs to frame trend structure and pullback entries.",
+          "points": [
+            "EMA reacts faster than SMA, better for trend changes.",
+            "Multi-timeframe EMA sets help align direction and entries.",
+            "Divergence = stronger trend; convergence = range.",
+            "EMAs often act as dynamic support/resistance."
+          ],
+          "practice": "Exercise: mark EMA pullback entries in a trend."
+        },
+        {
+          "title": "RSI Guide",
+          "summary": "Measure momentum and range behavior.",
+          "points": [
+            "Overbought/oversold is not an automatic reversal signal.",
+            "RSI divergence highlights fading momentum.",
+            "RSI works best in ranges; raise thresholds in trends.",
+            "Common settings: 14 default, adjust by timeframe."
+          ],
+          "practice": "Exercise: map RSI highs/lows inside a range."
+        },
+        {
+          "title": "Price Pattern Identification",
+          "summary": "Identify reversal, continuation, and false break structures.",
+          "points": [
+            "Reversals: head-and-shoulders, double tops/bottoms.",
+            "Continuation: flags, triangles, wedges.",
+            "False breaks: traps and quick rejections.",
+            "Multi-timeframe confluence increases reliability."
+          ],
+          "practice": "Exercise: label a triangle breakout and the retest."
+        },
+        {
+          "title": "Support, Resistance, Trendlines",
+          "summary": "Key levels show consensus and liquidity.",
+          "points": [
+            "Support/resistance reflects order clusters and consensus.",
+            "Combine static levels with dynamic levels for accuracy.",
+            "Trendlines need at least two clear touches.",
+            "Role reversal is a core signal of trend continuation."
+          ],
+          "practice": "Exercise: draw three key levels on one chart."
+        },
+        {
+          "title": "Price Action Strategies",
+          "summary": "Trade structure and signals without heavy indicators.",
+          "points": [
+            "Naked charts focus on structure, location, and pace.",
+            "Key level + signal confirmation builds high-quality setups.",
+            "Fake breakouts trap liquidity near range edges.",
+            "Pin Bar / Inside Bar setups require trend and location."
+          ],
+          "practice": "Exercise: find a Pin Bar at a key level and define the stop."
+        }
+      ]
+    },
+    {
+      "title": "Trading Strategies",
+      "subtitle": "Combine tools into executable strategy frameworks.",
+      "items": [
+        {
+          "title": "Day Trading Guide",
+          "summary": "Capture intraday moves with fast execution.",
+          "points": [
+            "Short holding period, avoid overnight risk.",
+            "Common timeframes: M5/M15/H1.",
+            "Intraday high/low strategies: opening range, session extremes.",
+            "Best for traders who can monitor the market and stay disciplined."
+          ],
+          "practice": "Exercise: track one week of intraday high/low breakouts."
+        },
+        {
+          "title": "Swing Trading",
+          "summary": "Trade the main leg of a trend with fewer decisions.",
+          "points": [
+            "Swing logic: capture trend continuation after pullbacks.",
+            "Pullback entries reduce noise when aligned with structure.",
+            "Multi-timeframe analysis: higher timeframe for bias, lower for entry.",
+            "Position management: partial exits and trailing stops."
+          ],
+          "practice": "Exercise: find an H4 trend with an H1 pullback entry."
+        },
+        {
+          "title": "Scalping Skills",
+          "summary": "Ultra-short-term trading relies on execution quality.",
+          "points": [
+            "Scalping targets small moves with high frequency.",
+            "Requires tight spreads and fast execution.",
+            "Risks: slippage, fatigue, and cost accumulation.",
+            "Not ideal for beginners without strict routines."
+          ],
+          "practice": "Exercise: simulate 10 scalps and log slippage."
+        },
+        {
+          "title": "Trend Following System",
+          "summary": "Let trends run and manage positions with structure.",
+          "points": [
+            "Trend definition: higher highs/lows or aligned moving averages.",
+            "Confirmation via structure + MAs + momentum.",
+            "Pyramiding and reductions must keep risk controlled.",
+            "Trend end signals: structure breaks and momentum loss."
+          ],
+          "practice": "Exercise: design add/reduce rules for one trend trade."
+        },
+        {
+          "title": "Breakout Strategies",
+          "summary": "Trade direction once a range resolves.",
+          "points": [
+            "Identify ranges by compression and repeated tests.",
+            "True vs false breakouts require retest confirmation.",
+            "Volume and volatility help validate the break.",
+            "Handle failed breaks with fast stops or reversals."
+          ],
+          "practice": "Exercise: write entry and failure rules for a breakout."
+        }
+      ]
+    },
+    {
+      "title": "Risk Management",
+      "subtitle": "Turn risk control into rules for long-term survival.",
+      "items": [
+        {
+          "title": "Risk Management Basics",
+          "summary": "Risk control keeps you in the game.",
+          "points": [
+            "Risk management outweighs strategy in long-term survival.",
+            "Survival logic: control drawdowns and stay consistent.",
+            "Trading is about expectancy, not just win rate.",
+            "Keep losses small to preserve compounding."
+          ],
+          "practice": "Exercise: calculate expectancy and drawdown for your system."
+        },
+        {
+          "title": "Position Sizing & Capital",
+          "summary": "Consistent risk per trade stabilizes the equity curve.",
+          "points": [
+            "Fixed fractional risk is the most common method.",
+            "1% / 2% per trade keeps losing streaks survivable.",
+            "Plan for drawdowns with risk reduction rules.",
+            "Stable equity curves come from consistent risk."
+          ],
+          "practice": "Exercise: define a risk-reduction rule after a losing streak."
+        },
+        {
+          "title": "Stop-Loss Methods",
+          "summary": "Stops define boundaries, not failures.",
+          "points": [
+            "Fixed stops: pre-set by pips or cash risk.",
+            "Technical stops: based on structure or volatility.",
+            "Time stops: exit if price stagnates.",
+            "Trailing stops: protect profit while letting trends run."
+          ],
+          "practice": "Exercise: write three stop methods for the same setup."
+        },
+        {
+          "title": "Trading Psychology",
+          "summary": "Emotional control is the core of execution.",
+          "points": [
+            "Greed and fear distort decisions and timing.",
+            "Overtrading creates fatigue and higher costs.",
+            "Revenge trading magnifies losses without edge.",
+            "Discipline comes from plans, journaling, and review."
+          ],
+          "practice": "Exercise: list three emotional triggers and alternative actions."
+        },
+        {
+          "title": "Risk-Reward Optimization",
+          "summary": "Improve expectancy by shaping R:R.",
+          "points": [
+            "R:R often matters more than win rate.",
+            "Lower win rates can still be profitable with strong R:R.",
+            "Improve expectancy via entries, exits, and stops.",
+            "Compounding mindset: manage results over cycles."
+          ],
+          "practice": "Exercise: simulate 10 trades under different R:R ratios."
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "eyebrow": "Get started",
+    "title": "Want a more structured learning path?",
+    "lead": "You can start anywhere, but we recommend solidifying fundamentals first, then moving to technical and strategy modules, and finally stabilizing execution with risk control.",
+    "primary": "View programs & services",
+    "secondary": "Book a call",
+    "note": "All content is for education and training only."
+  }
+}

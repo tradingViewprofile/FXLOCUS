@@ -1,0 +1,305 @@
+[
+  {
+    "locale": "en",
+    "slug": "execution-gate",
+    "pillar": "mind",
+    "term": "Execution gate",
+    "oneLiner": "A pre-trade filter: if conditions fail, you don’t place the order.",
+    "misconceptions": ["A gate limits opportunities", "Writing a gate is the same as enforcing it"],
+    "frameworkNote": "A gate removes impulse from the decision chain and forces structure, falsification, and risk boundaries.",
+    "related": [
+      { "label": "Insight: Execution gate", "href": "/insights/execution-gate" }
+    ]
+  },
+  {
+    "locale": "en",
+    "slug": "trigger-map",
+    "pillar": "mind",
+    "term": "Trigger map",
+    "oneLiner": "A reviewable map of impulses before orders—so autopilot becomes visible.",
+    "misconceptions": ["Suppress triggers as 'bad emotions'", "No logging—only memory"],
+    "frameworkNote": "Triggers are early warnings. Seeing them enables delay and a return to the checklist.",
+    "related": [{ "label": "Video: Trigger map", "href": "/videos/video-trigger-map" }]
+  },
+  {
+    "locale": "en",
+    "slug": "post-loss-protocol",
+    "pillar": "mind",
+    "term": "Post-loss protocol",
+    "oneLiner": "Rules that switch you into cooldown and review mode after a loss streak.",
+    "misconceptions": ["Double down to win it back", "Cooldown is just rest, not review"],
+    "frameworkNote": "The purpose is not to avoid losses—it’s to avoid the second mistake after a loss.",
+    "related": [{ "label": "Template: Post-loss protocol", "href": "/downloads/post-loss-protocol-template" }]
+  },
+  {
+    "locale": "en",
+    "slug": "overtrading",
+    "pillar": "mind",
+    "term": "Overtrading",
+    "oneLiner": "Acting without structure—trading for action, not evidence.",
+    "misconceptions": ["Only track trade count", "More effort equals better results"],
+    "frameworkNote": "Govern via windows and a no-trade list so 'observe' becomes an intentional action.",
+    "related": [{ "label": "Insight: Overtrading", "href": "/insights/overtrading-chain" }]
+  },
+  {
+    "locale": "en",
+    "slug": "exit-language",
+    "pillar": "mind",
+    "term": "Exit language",
+    "oneLiner": "Rule-based exits written as evidence changes—rather than feelings.",
+    "misconceptions": ["Exiting equals failure, so you delay", "Exit rules only matter when losing"],
+    "frameworkNote": "Exits are where discipline becomes visible. Trigger → act, then review.",
+    "related": [{ "label": "Insight: Exit language", "href": "/insights/exit-language" }]
+  },
+  {
+    "locale": "en",
+    "slug": "rule-drift",
+    "pillar": "mind",
+    "term": "Rule drift",
+    "oneLiner": "The gradual loosening of rules under stress or confidence.",
+    "misconceptions": ["It only happens after losses", "It’s a harmless 'adjustment'"],
+    "frameworkNote": "Drift often appears when you feel most right. Track patterns and define stop triggers.",
+    "related": [{ "label": "Course: Discipline reset", "href": "/courses/14-day-discipline-reset" }]
+  },
+  {
+    "locale": "en",
+    "slug": "pre-trade-checklist",
+    "pillar": "mind",
+    "term": "Pre-trade checklist",
+    "oneLiner": "A gate in checklist form: reduce improvisation and make actions auditable.",
+    "misconceptions": ["Too slow", "Writing it means you followed it"],
+    "frameworkNote": "The checklist forces structure and risk boundaries before expression.",
+    "related": [{ "label": "Template: Pre-trade checklist", "href": "/downloads/pre-trade-checklist-template" }]
+  },
+  {
+    "locale": "en",
+    "slug": "hard-limits",
+    "pillar": "mind",
+    "term": "Hard limits",
+    "oneLiner": "Non-negotiable boundaries: daily risk, loss streak states, drawdown alerts.",
+    "misconceptions": ["Only for beginners", "Ignore limits until recovery"],
+    "frameworkNote": "Limits protect system stability. Trigger → execute.",
+    "related": [{ "label": "Tools: Daily risk cap", "href": "/tools" }]
+  },
+  {
+    "locale": "en",
+    "slug": "scorecard",
+    "pillar": "mind",
+    "term": "Execution scorecard",
+    "oneLiner": "A measurable way to judge consistency—without relying on feelings.",
+    "misconceptions": ["It’s bureaucracy", "Only results matter"],
+    "frameworkNote": "Score gate, risk, evidence, exits, and review quality—so discipline becomes auditable."
+  },
+  {
+    "locale": "en",
+    "slug": "journaling",
+    "pillar": "mind",
+    "term": "Journaling",
+    "oneLiner": "Turn trading into an evidence chain: reviewable, auditable, iteratable.",
+    "misconceptions": ["Journaling slows execution", "Only log prices"],
+    "frameworkNote": "The core fields are 'why' and 'how you admit failure'."
+  },
+  {
+    "locale": "en",
+    "slug": "cooldown-state",
+    "pillar": "mind",
+    "term": "Loss streak state",
+    "oneLiner": "A risk state that signals the decision system may be compromised.",
+    "misconceptions": ["Increase size under streaks", "Only PnL defines the state"],
+    "frameworkNote": "Include violations and score trends. State trigger → cooldown protocol.",
+    "related": [{ "label": "Insight: Post-loss protocol", "href": "/insights/post-loss-24h-protocol" }]
+  },
+
+  {
+    "locale": "en",
+    "slug": "regime",
+    "pillar": "market",
+    "term": "Regime",
+    "oneLiner": "A combination of participants and constraints: trend, range, transition.",
+    "misconceptions": ["A regime is a pattern name", "One indicator defines regimes"],
+    "frameworkNote": "Regimes define bounds and cadence. If unclear: size down or pass.",
+    "related": [{ "label": "Insight: Regimes over patterns", "href": "/insights/regimes-over-patterns" }]
+  },
+  {
+    "locale": "en",
+    "slug": "narrative",
+    "pillar": "market",
+    "term": "Narrative",
+    "oneLiner": "The 'why' behind price: who is forced, who is taking profit, who is waiting.",
+    "misconceptions": ["Narrative is emotional news", "Narrative can’t be reviewed"],
+    "frameworkNote": "Write narrative as structural impact on liquidity, volatility, and locations.",
+    "related": [{ "label": "Course: Weekly breakdown", "href": "/courses/weekly-breakdown-camp" }]
+  },
+  {
+    "locale": "en",
+    "slug": "liquidity",
+    "pillar": "market",
+    "term": "Liquidity",
+    "oneLiner": "The fuel of matching and stop execution—how price travels through locations.",
+    "misconceptions": ["Liquidity is conspiracy", "Finding stop pools is enough"],
+    "frameworkNote": "Liquidity helps define sweep zones and falsification boundaries.",
+    "related": [{ "label": "Insight: Liquidity & locations", "href": "/insights/liquidity-key-locations" }]
+  },
+  {
+    "locale": "en",
+    "slug": "key-location",
+    "pillar": "market",
+    "term": "Key location",
+    "oneLiner": "A place that changes behavior and risk boundaries—not a random line.",
+    "misconceptions": ["Every swing is key", "Only one timeframe matters"],
+    "frameworkNote": "A key location must be falsifiable: where you are wrong and what you do next.",
+    "related": [{ "label": "Template: Weekly review", "href": "/downloads/weekly-review-template" }]
+  },
+  {
+    "locale": "en",
+    "slug": "htf-ltf-alignment",
+    "pillar": "market",
+    "term": "HTF/LTF alignment",
+    "oneLiner": "Higher TF defines bounds; lower TF expresses execution.",
+    "misconceptions": ["More timeframes are always better", "Ignore conflicts and just stop out"],
+    "frameworkNote": "Conflicts require rules: size down, pass, or delay.",
+    "related": [{ "label": "Insight: HTF/LTF alignment", "href": "/insights/htf-ltf-alignment" }]
+  },
+  {
+    "locale": "en",
+    "slug": "session",
+    "pillar": "market",
+    "term": "Session rhythm",
+    "oneLiner": "Sessions differ in volatility and participants—changing how tactics behave.",
+    "misconceptions": ["Same parameters in all sessions", "Overtrade low-quality hours"],
+    "frameworkNote": "Write sessions into your trading schedule: express vs observe.",
+    "related": [{ "label": "Insight: Session rhythm", "href": "/insights/session-rhythm" }]
+  },
+  {
+    "locale": "en",
+    "slug": "volatility-context",
+    "pillar": "market",
+    "term": "Volatility context",
+    "oneLiner": "Volatility sets stop width, size, and holding time.",
+    "misconceptions": ["One-size-fits-all parameters", "Scale up in high volatility by impulse"],
+    "frameworkNote": "Write volatility into parameter rules so execution becomes comparable.",
+    "related": [{ "label": "Template: Volatility tiers", "href": "/downloads/volatility-context-table-template" }]
+  },
+  {
+    "locale": "en",
+    "slug": "weekly-breakdown",
+    "pillar": "market",
+    "term": "Weekly breakdown",
+    "oneLiner": "A weekly output that trains stable perception via consistent fields.",
+    "misconceptions": ["A collection of opinions", "Only notes—no bounds or falsification"],
+    "frameworkNote": "Value: use it daily to validate trade reasoning.",
+    "related": [{ "label": "Video: Weekly breakdown", "href": "/videos/video-weekly-breakdown" }]
+  },
+  {
+    "locale": "en",
+    "slug": "sweep",
+    "pillar": "market",
+    "term": "Liquidity sweep",
+    "oneLiner": "Price runs obvious stops to complete matching and rebalancing.",
+    "misconceptions": ["Sweep always reverses", "Sweeps are an edge by default"],
+    "frameworkNote": "Use location + force to judge. Boundaries still matter.",
+    "related": [{ "label": "Insight: False breakouts", "href": "/insights/false-breakouts" }]
+  },
+
+  {
+    "locale": "en",
+    "slug": "force",
+    "pillar": "price_action",
+    "term": "Force",
+    "oneLiner": "The quality of impulse and pullback: who dominates and whether it exhausts.",
+    "misconceptions": ["Force equals one big candle", "Ignore pullback quality"],
+    "frameworkNote": "Force is scoreable. Use it to define advantage and exits.",
+    "related": [{ "label": "Course: Force scoring", "href": "/courses/force-location-falsification" }]
+  },
+  {
+    "locale": "en",
+    "slug": "impulse",
+    "pillar": "price_action",
+    "term": "Impulse",
+    "oneLiner": "A dominant leg that pushes structure—showing constraint on the other side.",
+    "misconceptions": ["Faster is always better", "Chase immediately"],
+    "frameworkNote": "After impulse, ask: how does pullback behave and where is falsification?",
+    "related": [{ "label": "Insight: Force scoring", "href": "/insights/force-scoring" }]
+  },
+  {
+    "locale": "en",
+    "slug": "pullback",
+    "pillar": "price_action",
+    "term": "Pullback",
+    "oneLiner": "An adjustment inside dominance—testing whether continuation holds.",
+    "misconceptions": ["Pullbacks are always entries", "No falsification needed"],
+    "frameworkNote": "You trade continuation quality, not the pullback itself.",
+    "related": [{ "label": "Insight: Pullback continuation", "href": "/insights/pullback-continuation" }]
+  },
+  {
+    "locale": "en",
+    "slug": "location",
+    "pillar": "price_action",
+    "term": "Location",
+    "oneLiner": "Boundaries and risk frames: where you are wrong and what you do next.",
+    "misconceptions": ["Random lines", "Single timeframe only"],
+    "frameworkNote": "Location defines boundaries. Express near edges.",
+    "related": [{ "label": "Insight: Location context", "href": "/insights/location-context" }]
+  },
+  {
+    "locale": "en",
+    "slug": "boundary",
+    "pillar": "price_action",
+    "term": "Boundary",
+    "oneLiner": "A structural defense line: losing it changes probability and narrative.",
+    "misconceptions": ["Only psychological levels", "Hold through boundary loss"],
+    "frameworkNote": "Boundaries must be falsifiable: loss → action.",
+    "related": [{ "label": "Template: Falsification card", "href": "/downloads/falsification-card-template" }]
+  },
+  {
+    "locale": "en",
+    "slug": "pivot",
+    "pillar": "price_action",
+    "term": "Pivot",
+    "oneLiner": "A structural node that decides wait vs express.",
+    "misconceptions": ["Any swing point", "No confirmation needed"],
+    "frameworkNote": "Confirm via sequence: failed impulse + boundary resistance + second test.",
+    "related": [{ "label": "Insight: Reversal evidence", "href": "/insights/reversal-as-failure" }]
+  },
+  {
+    "locale": "en",
+    "slug": "falsification",
+    "pillar": "price_action",
+    "term": "Falsification",
+    "oneLiner": "Failure condition + exit action. If unwritten, you have no boundary.",
+    "misconceptions": ["Falsification equals stop price", "Write as emotion"],
+    "frameworkNote": "Falsification is system language: trigger → execute → review.",
+    "related": [{ "label": "Insight: Write falsification", "href": "/insights/write-falsification" }]
+  },
+  {
+    "locale": "en",
+    "slug": "failure-pattern",
+    "pillar": "price_action",
+    "term": "Failure pattern",
+    "oneLiner": "An observable sequence of failed continuation—used for exits and reversals.",
+    "misconceptions": ["A named pattern", "One-candle reasoning"],
+    "frameworkNote": "The value is rule-based exits and reviewable decisions.",
+    "related": [{ "label": "Cases: Failure sequences", "href": "/cases" }]
+  },
+  {
+    "locale": "en",
+    "slug": "breakout-retest",
+    "pillar": "price_action",
+    "term": "Breakout & retest",
+    "oneLiner": "The retest is the evidence. Breakout alone is not enough.",
+    "misconceptions": ["Chase breakouts", "No falsification on retests"],
+    "frameworkNote": "A failed retest is strong falsification. Trigger → exit.",
+    "related": [{ "label": "Insight: Breakout retest", "href": "/insights/breakout-retest" }]
+  },
+  {
+    "locale": "en",
+    "slug": "three-sentence-method",
+    "pillar": "price_action",
+    "term": "Three-sentence method (Force/Location/Falsification)",
+    "oneLiner": "Write the trade in three sentences: force, location, falsification.",
+    "misconceptions": ["It’s just writing", "Write as emotional venting"],
+    "frameworkNote": "If you can’t write it, your boundaries are unclear. It bridges the gate and the log.",
+    "related": [{ "label": "Video: Three-sentence method", "href": "/videos/video-three-sentence" }]
+  }
+]
+

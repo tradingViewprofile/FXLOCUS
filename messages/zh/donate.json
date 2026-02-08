@@ -1,0 +1,140 @@
+{
+  "hero": {
+    "title": "立刻捐赠，成为会员！",
+    "subtitle": "这是一个以捐赠形式开放的 90 天试用会员。你获得的是训练环境：节奏、交付物、复盘与社区陪练，围绕交易心理 / 市场认知 / K线本质建立闭环；你不会获得任何收益承诺。我们强调先重塑认知与执行，再谈策略与技巧，把过程证据做扎实，让成长可复用、可审计。",
+    "highlights": [
+      "90 天试用会员：重在参与与训练交付。",
+      "训练机制优先：作业、复盘、纠偏动作。",
+      "清晰边界：不提供投资建议，不承诺收益。"
+    ],
+    "cta": {
+      "primary": "立即报名",
+      "secondary": "查看课程与服务"
+    },
+    "risk": "仅用于教育与训练，不构成投资建议；捐赠不代表任何收益承诺或分成安排。"
+  },
+  "eyebrow": "捐赠 / 会员",
+  "title": "立刻捐赠，成为会员！",
+  "lead": "90天试用会员以捐赠形式开放，不承诺收益，不构成任何投资建议。重点在训练机制与社区陪练。",
+  "footerRisk": "风险提示：捐赠属于自愿支持，不代表任何投资服务、分成安排或收益承诺。所有内容仅用于教育与训练；交易有风险。",
+  "pricing": {
+    "amountLabel": "当前捐赠金额",
+    "countdownLabel": "倒计时",
+    "dailyIncrease": "每天增加 $5",
+    "baseLabel": "起始金额",
+    "dailyLabel": "每日增长",
+    "methodLabel": "支付方式",
+    "methodValue": "仅支持Ethereum资产/ERC20"
+  },
+  "rules": {
+    "title": "捐赠规则与说明",
+    "items": [
+      "自2025年3月10日起全球范围接受捐赠成为90天试用会员，金额$999(仅接受USDT/USDC)起。",
+      "2025年10月11日起捐赠数额每天增加$5。",
+      "捐赠将默认私人行为且无任何承诺和商业约束力但可参与会员社区的顶尖交易员集训+21天教练陪跑。",
+      "成绩优异可自愿参与挑战，挑战成功：1.终身进阶受训 2.1-20万$MOM操作权 3.顶尖矩阵俱乐部。",
+      "中国大陆会员接受数字人民币捐赠，详情请联系团队长。"
+    ],
+    "walletLabel": "国际钱包",
+    "walletValue": "0xe833c169887fe418cd0a2b684ba19a62ad81220f"
+  },
+  "cta": {
+    "openForm": "立即报名",
+    "export": "导出 JSON"
+  },
+  "form": {
+    "title": "报名信息",
+    "subtitle": "请尽量具体描述你的阶段与卡点，便于评估与匹配训练路径。",
+    "programLabel": "捐赠/会员 · 90天试用",
+    "sections": {
+      "personal": "个人信息",
+      "status": "个人现状",
+      "intent": "意愿与目标",
+      "thoughts": "行业认知与想法（富文本）"
+    },
+    "fields": {
+      "name": { "label": "姓名", "placeholder": "怎么称呼你？" },
+      "email": { "label": "邮箱", "placeholder": "你常用的邮箱地址" },
+      "telegram": { "label": "Telegram/WhatsApp（选填）", "placeholder": "账号或号码" },
+      "wechat": { "label": "微信（选填）", "placeholder": "可选微信号" },
+      "phoneGroup": "国家/地区与手机号",
+      "phone": { "label": "手机号", "placeholder": "手机号将按 E.164 格式保存" },
+      "country": { "label": "国家/地区", "placeholder": "你所在的国家或地区" },
+      "years": { "label": "交易年限", "placeholder": "请选择…" },
+      "weekly": { "label": "每周交易频率", "placeholder": "例如：每周 5–15 笔 / 每周 2–3 个交易时段" },
+      "instruments": { "label": "主要交易市场（多选）" },
+      "bottlenecks": { "label": "当前主要问题（多选）" },
+      "why": { "label": "为什么想加入（必填）", "placeholder": "你的动机与现状" },
+      "goal": { "label": "90天期望达成什么（必填）", "placeholder": "请写出具体结果与标准" },
+      "challenge": { "label": "是否愿意参加挑战" },
+      "thoughts": { "label": "行业认知与想法（必填）", "placeholder": "请写下你对行业的认知、你正在经历的问题、你希望获得的改变…（越具体越好）" }
+    },
+    "richText": {
+      "toolbar": {
+        "undo": "撤销",
+        "redo": "重做",
+        "bold": "加粗",
+        "italic": "斜体",
+        "underline": "下划线",
+        "heading": "标题",
+        "bulletList": "无序列表",
+        "orderedList": "有序列表",
+        "blockquote": "引用",
+        "link": "链接",
+        "unlink": "移除链接",
+        "image": "插入图片"
+      },
+      "link": {
+        "placeholder": "粘贴链接…",
+        "apply": "应用",
+        "remove": "移除",
+        "cancel": "取消"
+      },
+      "image": {
+        "unsupported": "只支持图片文件。",
+        "tooLarge": "图片过大（最大 {max}MB）。",
+        "readFailed": "读取图片失败，请重试。"
+      }
+    },
+    "options": {
+      "years": { "lt1": "<1年", "1_3": "1-3年", "3_5": "3-5年", "5_10": "5-10年", "10p": "10年以上" },
+      "instruments": {
+        "fx": "外汇",
+        "gold": "黄金",
+        "crypto": "加密",
+        "index": "指数",
+        "stocks": "股票",
+        "other": "其他"
+      },
+      "bottlenecks": {
+        "impulse": "冲动",
+        "fomo": "FOMO",
+        "overtrading": "过度交易",
+        "noDiscipline": "无纪律",
+        "structure": "看不懂结构",
+        "review": "不会复盘",
+        "other": "其他"
+      },
+      "challenge": { "yes": "愿意", "no": "暂不" }
+    },
+    "actions": { "submit": "提交", "cancel": "取消", "close": "关闭" },
+    "success": {
+      "title": "已提交",
+      "body": "申请编号：{id}",
+      "time": "提交时间：{time}"
+    }
+  },
+  "validation": {
+    "required": "必填",
+    "invalidEmail": "邮箱格式不正确。",
+    "invalidFormat": "部分字段格式不正确，请查看红色提示。",
+    "invalidName": "姓名仅支持中文/英文/空格/·/'.-，长度2-40。",
+    "invalidHandle": "Telegram/WhatsApp 仅限字母数字及_+@.-，长度3-32。",
+    "invalidWechat": "微信号需字母开头，6-20位，仅字母数字_-。",
+    "invalidPhone": "手机号需含国家码，格式如 +8613712345678。",
+    "invalidWeekly": "频率填写2-80字符，可用数字/文字/斜杠/逗号。",
+    "invalidText": "内容需6-1600字。",
+    "rateLimited": "你刚刚提交过，请稍后再试。",
+    "botDetected": "提交被拒绝。"
+  }
+}

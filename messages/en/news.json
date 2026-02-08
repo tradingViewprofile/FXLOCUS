@@ -1,0 +1,65 @@
+{
+  "hero": {
+    "eyebrow": "Signal, not noise",
+    "title": "News",
+    "subtitle": "Use news as context, not a trigger. News will organize narratives, importance, and timing into a training-friendly feed—so you can map “what changed” to “what I do next” with falsification and risk boundaries. The goal is calmer execution, not faster reactions.",
+    "highlights": [
+      "Filter by narrative, impact, and timing.",
+      "A feed designed to support reviewable decisions.",
+      "Sidebar for hot topics, calendar, and training picks."
+    ],
+    "cta": {
+      "primary": "Open News",
+      "secondary": "Open Markets"
+    },
+    "risk": "Educational use only. Not investment advice; trading involves risk."
+  },
+  "layout": {
+    "left": {
+      "title": "Filters",
+      "category": "Categories (placeholder)",
+      "importance": "Importance / impact (placeholder)",
+      "time": "Time window (placeholder)"
+    },
+    "middle": {
+      "title": "Feed"
+    },
+    "right": {
+      "title": "Sidebar",
+      "hot": "Hot topics (placeholder)",
+      "calendar": "Macro calendar (placeholder)",
+      "recommend": "Courses & training picks (placeholder)"
+    }
+  },
+  "filters": {
+    "title": "Filters",
+    "category": "Category",
+    "time": "Time window",
+    "customFrom": "From",
+    "customTo": "To",
+    "range": {
+      "today": "Today",
+      "week": "This week",
+      "month": "This month",
+      "custom": "Custom range"
+    },
+    "categories": {
+      "fx": "FX",
+      "stocks": "Stocks",
+      "commodities": "Commodities",
+      "crypto": "Crypto",
+      "macro": "Macro"
+    }
+  },
+  "feed": {
+    "title": "Feed",
+    "loading": "Loading news...",
+    "empty": "No news items found for this filter.",
+    "error": "Unable to load the feed right now.",
+    "readMore": "Read more"
+  },
+  "trending": {
+    "title": "Trending",
+    "empty": "No trending items yet."
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "hero": {
+    "title": "Donate now, become a member",
+    "subtitle": "This is a 90‑day trial membership supported by voluntary contributions. What you get is a training environment: cadence, deliverables, reviews, and community accountability—built around Mind, Market understanding, and Price Action. What you do not get is any performance promise. Rebuild perception and execution first; outcomes are a byproduct, not a guarantee.",
+    "highlights": [
+      "90‑day trial membership based on participation.",
+      "Training loop + deliverables + review, not signals.",
+      "Clear risk boundary: no investment advice, no guarantees."
+    ],
+    "cta": {
+      "primary": "Apply now",
+      "secondary": "See programs"
+    },
+    "risk": "Educational content only. Not investment advice; donations do not imply any profit-sharing or performance promise."
+  },
+  "eyebrow": "Membership",
+  "title": "Donate Now, Become a Member!",
+  "lead": "A 90-day trial membership supported by contributions. No performance promises. Training and community access are participation-based.",
+  "footerRisk": "Risk notice: Donations are voluntary support and do not imply any investment service, profit-sharing, or performance guarantee. All content is educational; trading is high risk.",
+  "pricing": {
+    "amountLabel": "Current amount",
+    "countdownLabel": "Resets in",
+    "dailyIncrease": "Increases by $5 daily",
+    "baseLabel": "Base amount",
+    "dailyLabel": "Daily increase",
+    "methodLabel": "Payment",
+    "methodValue": "Ethereum assets / ERC20 only"
+  },
+  "rules": {
+    "title": "Rules & Notes",
+    "items": [
+      "Global donations are accepted for a 90-day trial membership. Starting at $999 (USDT/USDC only).",
+      "Donations are private contributions with no promises and no binding commercial obligations.",
+      "Members may join community training and a 21-day coaching sprint.",
+      "High performers may opt into a challenge. If passed: (1) lifetime advanced training, (2) $10k–$200k MOM allocation access, (3) top matrix club.",
+      "For Mainland China members, digital RMB is supported. Contact the team lead for details."
+    ],
+    "walletLabel": "International wallet",
+    "walletValue": "0xe833c169887fe418cd0a2b684ba19a62ad81220f"
+  },
+  "cta": {
+    "openForm": "Apply now",
+    "export": "Export JSON"
+  },
+  "form": {
+    "title": "Application",
+    "subtitle": "Share your context so we can assess fit and suggest a training path.",
+    "programLabel": "Donation/Membership · 90-day trial",
+    "sections": {
+      "personal": "Personal information",
+      "status": "Current status",
+      "intent": "Intent & goals",
+      "thoughts": "Industry thinking (rich text)"
+    },
+    "fields": {
+      "name": { "label": "Name", "placeholder": "How should we address you?" },
+      "email": { "label": "Email", "placeholder": "Your most used email address" },
+      "telegram": { "label": "Telegram/WhatsApp (optional)", "placeholder": "Your handle or number" },
+      "wechat": { "label": "WeChat (optional)", "placeholder": "Optional WeChat ID" },
+      "phoneGroup": "Country/Region & phone",
+      "phone": { "label": "Phone number", "placeholder": "Your phone number (saved as E.164)" },
+      "country": { "label": "Country/Region", "placeholder": "Where are you based?" },
+      "years": { "label": "Trading years", "placeholder": "Select…" },
+      "weekly": { "label": "Weekly trading frequency", "placeholder": "e.g., 5–15 trades/week, or 2 sessions/week" },
+      "instruments": { "label": "Primary markets (multi-select)" },
+      "bottlenecks": { "label": "Current issues (multi-select)" },
+      "why": { "label": "Why do you want to join?", "placeholder": "Your motivation and context" },
+      "goal": { "label": "What do you want in 90 days?", "placeholder": "Concrete outcomes you expect" },
+      "challenge": { "label": "Willing to join the challenge?" },
+      "thoughts": { "label": "Industry thinking", "placeholder": "Share your understanding, current issues, and what change you want…" }
+    },
+    "richText": {
+      "toolbar": {
+        "undo": "Undo",
+        "redo": "Redo",
+        "bold": "Bold",
+        "italic": "Italic",
+        "underline": "Underline",
+        "heading": "Heading",
+        "bulletList": "Bullet list",
+        "orderedList": "Ordered list",
+        "blockquote": "Quote",
+        "link": "Link",
+        "unlink": "Remove link",
+        "image": "Insert image"
+      },
+      "link": {
+        "placeholder": "Paste URL…",
+        "apply": "Apply",
+        "remove": "Remove",
+        "cancel": "Cancel"
+      },
+      "image": {
+        "unsupported": "Only image files are supported.",
+        "tooLarge": "Image is too large (max {max}MB).",
+        "readFailed": "Failed to read image. Please try again."
+      }
+    },
+    "options": {
+      "years": { "lt1": "< 1", "1_3": "1–3", "3_5": "3–5", "5_10": "5–10", "10p": "10+" },
+      "instruments": {
+        "fx": "FX",
+        "gold": "Gold",
+        "crypto": "Crypto",
+        "index": "Index",
+        "stocks": "Stocks",
+        "other": "Other"
+      },
+      "bottlenecks": {
+        "impulse": "Impulse",
+        "fomo": "FOMO",
+        "overtrading": "Overtrading",
+        "noDiscipline": "No discipline",
+        "structure": "Can't read structure",
+        "review": "No review process",
+        "other": "Other"
+      },
+      "challenge": { "yes": "Yes", "no": "Not yet" }
+    },
+    "actions": { "submit": "Submit", "cancel": "Cancel", "close": "Close" },
+    "success": {
+      "title": "Submitted",
+      "body": "Application ID: {id}",
+      "time": "Time: {time}"
+    }
+  },
+  "validation": {
+    "required": "Required",
+    "invalidEmail": "Please enter a valid email.",
+    "invalidFormat": "Some fields are invalid. Please check the highlighted hints.",
+    "invalidName": "Name: 2-40 chars, letters/CJK/spaces/.'- only.",
+    "invalidHandle": "Telegram/WhatsApp: 3-32 chars, letters/digits/_+@.- only.",
+    "invalidWechat": "WeChat ID: 6-20 chars, starts with a letter, letters/digits/_- only.",
+    "invalidPhone": "Phone: include country code, e.g. +14155552671.",
+    "invalidWeekly": "Weekly frequency: 2-80 chars, numbers/letters/space/.,/-/+/, allowed.",
+    "invalidText": "Text: 6-1600 characters.",
+    "rateLimited": "You've submitted recently. Please try again in a few minutes.",
+    "botDetected": "Submission blocked."
+  }
+}

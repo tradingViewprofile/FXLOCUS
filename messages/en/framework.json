@@ -1,0 +1,320 @@
+{
+  "hero": {
+    "title": "Framework: Mind / Market / Price Action",
+    "subtitle": "Better trading is rarely about more tricks - it's about a stable loop: perception -> execution -> review. This framework breaks skill into three pillars and turns them into weekly drills with audit-ready outputs. You learn to describe context, write falsification points before entry, size risk consistently, and review behavior with evidence. Rebuild cognition and execution first; strategy details come last.",
+    "highlights": [
+      "Three pillars mapped to a weekly training cadence.",
+      "Falsification-first thinking for every idea and entry.",
+      "Audit-ready outputs: checklists, logs, and review notes."
+    ],
+    "cta": {
+      "primary": "See programs",
+      "secondary": "Book a call"
+    },
+    "risk": "Educational content only. Not investment advice; trading involves substantial risk."
+  },
+  "title": "Framework",
+  "lead": "Three pillars, a weekly training loop, and audit-ready outputs. Build an operating system for repeatable execution.",
+  "modules": {
+    "eyebrow": "Three modules",
+    "title": "Three core modules — switch the view with one click",
+    "lead": "These three modules act as buttons. Tap one to switch the content below.",
+    "labels": {
+      "keyPoints": "Key points",
+      "tags": "Training focus",
+      "outputHint": "Module outputs",
+      "position": "Module positioning",
+      "scenarios": "Best use cases",
+      "pillars": "Three pillars",
+      "steps": "Training path",
+      "stepDefinition": "Completion",
+      "drills": "Core drills",
+      "deliverables": "Deliverables",
+      "metrics": "Metrics",
+      "antipatterns": "Common mistakes",
+      "faq": "FAQ"
+    },
+    "items": {
+      "mind": {
+        "title": "Mind & discipline",
+        "slogan": "Separate emotion and impulse from the decision chain so execution stays repeatable under pressure.",
+        "keyPoints": ["Trigger recognition & cooldown", "Gates and hard limits", "Review & corrective actions"],
+        "tags": ["Discipline", "Gating", "Cooldown"],
+        "outputHint": "Pre-trade checklist / Execution scorecard / Cooldown + review templates",
+        "position": "Fix the “I know what to do but still fail” problem: maintain rule execution, risk consistency, and a review loop under uncertainty.",
+        "scenarios": [
+          "Revenge trading after consecutive losses",
+          "Relaxing rules and oversizing after wins",
+          "Decision fatigue leading to random entries"
+        ],
+        "pillars": [
+          { "title": "Trigger recognition & cooldown", "desc": "Identify emotional triggers and set a cooldown window." },
+          { "title": "Gates and hard limits", "desc": "Write the “can / cannot” rules explicitly." },
+          { "title": "Review & corrective actions", "desc": "Use data to correct, not willpower." }
+        ],
+        "steps": [
+          { "title": "Trigger list", "definition": "List 10 high-frequency loss-of-control scenarios with concrete detail." },
+          { "title": "Cooldown protocol", "definition": "Run the 3-minute breathing/step-away/review flow 30 times." },
+          { "title": "Pre-trade checks", "definition": "Pass 6 checks for 20 consecutive trades." },
+          { "title": "Execution scorecard", "definition": "Record 50 trades with focus on rule adherence." },
+          { "title": "Correction plan", "definition": "Define alternatives for 3 frequent errors and track for 2 weeks." }
+        ],
+        "drills": [
+          { "title": "Impulse delay: wait 90 seconds before any order", "cadence": "10x daily" },
+          { "title": "Only A setups: execute A setups only", "cadence": "20 consecutive trades" },
+          { "title": "Post-loss cooldown: rest 15 minutes after a losing trade", "cadence": "2 weeks" },
+          {
+            "title": "Review three questions: Did I follow rules? Which rule broke? What is the replacement action?",
+            "cadence": "Every review"
+          }
+        ],
+        "deliverables": ["Pre-trade checklist", "Execution scorecard", "Cooldown & review template"],
+        "metrics": [
+          "Rule adherence rate (%)",
+          "Impulse entries per week",
+          "Review completion rate (%)",
+          "Per-trade risk consistency (variance %)"
+        ],
+        "antipatterns": [
+          "Treating “mindset” as slogans without process or data",
+          "Judging only PnL, not rule adherence",
+          "Doubling down after losses to “win it back”"
+        ],
+        "faq": [
+          {
+            "q": "Q: Is poor execution a personality issue?",
+            "a": "A: Mostly a system issue — replace willpower with gates and process."
+          },
+          {
+            "q": "Q: How long until it works?",
+            "a": "A: Track rule adherence first. Stabilize before advancing."
+          }
+        ],
+        "cta": { "primary": "Start training", "secondary": "Download templates", "tertiary": "Join assessment" }
+      },
+      "market": {
+        "title": "Market structure",
+        "slogan": "Define environment and boundaries first, then plan entries and management.",
+        "keyPoints": ["Regime recognition", "Key structure", "Risk location"],
+        "tags": ["Structure map", "State labels", "Boundary rules"],
+        "outputHint": "Regime tags / Structure map / Entry thesis card",
+        "position": "Fix the “see it, take it” habit: break the market into structure, phase, and boundaries to make fewer, higher-quality decisions.",
+        "scenarios": [
+          "Can’t tell range vs trend vs acceleration",
+          "Repeated stop-outs near key levels",
+          "Obsessing over entries while missing regime shifts"
+        ],
+        "pillars": [
+          { "title": "Regime recognition", "desc": "Trend, range, transition." },
+          { "title": "Key structure", "desc": "Highs/lows, ranges, breaks, and retests." },
+          { "title": "Risk location", "desc": "Define where you’re wrong inside structure." }
+        ],
+        "steps": [
+          { "title": "Daily structure marking", "definition": "Mark highs, lows, and ranges for 10 straight days." },
+          { "title": "State classification", "definition": "Label 100 segments as trend/range/transition." },
+          { "title": "Write the boundary", "definition": "For 30 trades, write “if wrong, where?” before entry." },
+          { "title": "Management rules", "definition": "Backtest/review 50 trades and write if/then rules." }
+        ],
+        "drills": [
+          { "title": "Three-pass reading: structure → state → key levels", "cadence": "15 min daily" },
+          { "title": "Key-level review: review only failed trades near key levels", "cadence": "20 trades/week" },
+          { "title": "Regime shift log: record signals from range to trend", "cadence": "2 weeks" }
+        ],
+        "deliverables": ["Regime tags", "Structure map", "Entry thesis card"],
+        "metrics": [
+          "Trades taken in favorable regimes (%)",
+          "Rule violations near key levels (per week)",
+          "Entry thesis consistency (score)"
+        ],
+        "antipatterns": [
+          "Treating structure as decoration without verifiable rules",
+          "Recognizing trends but not endings",
+          "Immediate reversal after a sweep at key levels"
+        ],
+        "faq": [
+          {
+            "q": "Q: Isn’t structure too subjective?",
+            "a": "A: Use a marking template + sample library to compress subjectivity into repeatable actions."
+          },
+          {
+            "q": "Q: Do I need complex tools?",
+            "a": "A: No. Templates and simple labels are enough; consistency matters most."
+          }
+        ],
+        "cta": { "primary": "Start training", "secondary": "Download templates", "tertiary": "Join assessment" }
+      },
+      "price": {
+        "title": "Price Action core",
+        "slogan": "Organize structure by force and location, express decisions with falsification.",
+        "keyPoints": ["Force assessment", "Location constraints", "Falsification expression"],
+        "tags": ["Falsification", "Force scoring", "Location matrix"],
+        "outputHint": "Candle grammar card / Falsification template / Location x Force matrix",
+        "position": "Move from pattern memory to grammar understanding: candles are outcomes of behavior, not signals. Use fewer concepts to express a clearer evidence chain.",
+        "scenarios": [
+          "Patterns look clear but results are inconsistent",
+          "Stops are random and falsification is vague",
+          "Jumping in on long wicks or engulfing candles"
+        ],
+        "pillars": [
+          { "title": "Force", "desc": "Who is pushing and is it sustained?" },
+          { "title": "Location", "desc": "Where does it happen inside structure?" },
+          { "title": "Falsification", "desc": "Which candle/line invalidates the idea?" }
+        ],
+        "steps": [
+          { "title": "Single-candle explanation", "definition": "Explain 100 samples in buyer/seller terms." },
+          { "title": "Two-phase narrative", "definition": "Finish 50 sequences: drive → exhaustion → reaction." },
+          { "title": "Falsification writing", "definition": "For 30 trades, write “falsification + response.”" },
+          { "title": "Grammar rules", "definition": "Build 10 if/then rules from patterns." }
+        ],
+        "drills": [
+          { "title": "Falsification-only: look at charts and write where it fails", "cadence": "20 min daily" },
+          { "title": "Force scoring: rate drive/exhaustion candles 1–5", "cadence": "200 candles/week" },
+          { "title": "Location constraint: compare win rate of same pattern by location", "cadence": "30 samples/week" }
+        ],
+        "deliverables": ["Candle grammar card", "Falsification template", "Location x Force matrix"],
+        "metrics": [
+          "Falsification clarity score (0–5)",
+          "Stop consistency (variance %)",
+          "Pattern-trigger violations (per week)"
+        ],
+        "antipatterns": [
+          "Treating patterns as “signals” and ignoring location/structure",
+          "Stops by gut feel with vague invalidation",
+          "Reading a candle without the surrounding narrative"
+        ],
+        "faq": [
+          {
+            "q": "Q: How much candlestick theory do I need?",
+            "a": "A: Less but precise — write force/location/falsification as a grammar."
+          },
+          {
+            "q": "Q: Is falsification the same as a stop loss?",
+            "a": "A: Falsification defines where you’re wrong; stops should align with that risk expression."
+          }
+        ],
+        "cta": { "primary": "Start training", "secondary": "Download templates", "tertiary": "Join assessment" }
+      }
+    }
+  },
+  "triangle": {
+    "eyebrow": "The impossible triangle",
+    "title": "You cannot maximize win rate, R:R, and frequency at the same time",
+    "lead": "Every trading system prioritizes two corners and concedes the third.",
+    "cards": {
+      "winRate": {
+        "title": "Win rate first",
+        "desc": "Higher win rate usually means smaller targets or heavier filtering. Frequency or R must shrink.",
+        "note": "Best for stability and drawdown control phases."
+      },
+      "rr": {
+        "title": "R:R first",
+        "desc": "Bigger R requires waiting and tolerating pullbacks. Win rate or frequency declines.",
+        "note": "Fits trend/structure-focused systems."
+      },
+      "freq": {
+        "title": "Frequency first",
+        "desc": "High frequency means more noise. Win rate or R must compress to stay viable.",
+        "note": "Fits fast training with strict risk control."
+      }
+    },
+    "body": [
+      "The impossible triangle means you cannot keep win rate, R:R, and frequency high at the same time. Raising one corner compresses another.",
+      "System design starts by admitting the constraint. If you want a high win rate, accept smaller R or lower frequency; if you want high R, accept lower win rate and longer waits; if you want high frequency, accept smaller R or lower win rate.",
+      "Respecting the facts is not compromise — it is matching your goal to the right timeframe and execution style."
+    ],
+    "timeframes": {
+      "title": "Facts across timeframes",
+      "items": [
+        { "k": "1m", "v": "Noisier and faster. Frequency is easier, but win rate or R must be compressed. Tight stops demand discipline." },
+        { "k": "5m", "v": "Structure improves but still high frequency. Win rate and R require stricter filtering." },
+        { "k": "15m", "v": "Lower frequency, more stable structure. R opens up, but waiting costs rise." },
+        { "k": "1h", "v": "Fewer signals but higher quality. R and stability improve at the expense of speed." }
+      ],
+      "focus": "Focus suggestion: choose your primary corner (win rate / R / frequency) first, then choose timeframe and rules. Don't chase the all-max triangle."
+    }
+  },
+  "sections": {
+    "mindTitle": "Mind modules",
+    "marketTitle": "Market modules",
+    "priceTitle": "Price Action modules",
+    "loopTitle": "Weekly training loop",
+    "auditTitle": "Audit & evaluation"
+  },
+  "pillars": {
+    "mind": {
+      "summary": "Separate impulses from the decision chain. Build gates and scorecards so execution stays repeatable under pressure.",
+      "keywords": ["Triggers", "Gates", "Consistency"]
+    },
+    "market": {
+      "summary": "Write the environment and boundaries first, then decide. Turn narrative, location, and risk into reviewable context logs.",
+      "keywords": ["Regime", "Boundaries", "Context"]
+    },
+    "price": {
+      "summary": "Organize structure by force and location, constrain decisions with falsification, and formalize entry/exit into auditable SOPs.",
+      "keywords": ["Force", "Location", "Falsify"]
+    }
+  },
+  "ui": {
+    "details": "Details",
+    "viewDetails": "View details",
+    "selected": "Selected",
+    "close": "Close"
+  },
+  "cta": {
+    "toPrograms": "See programs",
+    "bookCall": "Book a call"
+  },
+  "loop": {
+    "lead": "A fixed cadence turns ideas into outputs: input -> break down -> execute -> review -> iterate.",
+    "steps": {
+      "s1": {
+        "k": "Input",
+        "v": "Collect context: regime, narrative, locations, risk environment."
+      },
+      "s2": {
+        "k": "Break down",
+        "v": "Write a clean claim: force, location, and falsification."
+      },
+      "s3": {
+        "k": "Execute",
+        "v": "Run the gate, size by risk, and log decisions."
+      },
+      "s4": {
+        "k": "Review",
+        "v": "Audit behavior: violations, exits, and evidence quality."
+      },
+      "s5": {
+        "k": "Iterate",
+        "v": "Change one variable and re-run the loop next week."
+      }
+    }
+  },
+  "audit": {
+    "lead": "A scorecard makes the process reviewable: consistency, risk, review quality, and stable perception.",
+    "items": {
+      "a1": {
+        "k": "A1",
+        "title": "Consistency",
+        "desc": "Do gates, risk, and exits look the same across trades?"
+      },
+      "a2": {
+        "k": "A2",
+        "title": "Risk control",
+        "desc": "Is risk per trade consistent - and reduced when the environment changes?"
+      },
+      "a3": {
+        "k": "A3",
+        "title": "Review quality",
+        "desc": "Do you produce written reviews with corrective actions?"
+      },
+      "a4": {
+        "k": "A4",
+        "title": "Perception stability",
+        "desc": "Can you explain different markets with one framework under stress?"
+      }
+    }
+  }
+}
+
+
+

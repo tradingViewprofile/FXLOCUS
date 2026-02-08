@@ -1,0 +1,16 @@
+{
+  "title": "Downloads",
+  "lead": "Templates you can use immediately: gates, reviews, and falsification cards.",
+  "categories": {
+    "templates": "Templates",
+    "system": "System",
+    "tools": "Tools"
+  },
+  "formats": {
+    "md": "Markdown",
+    "pdf": "PDF",
+    "png": "PNG",
+    "json": "JSON"
+  }
+}
+

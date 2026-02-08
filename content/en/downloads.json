@@ -1,0 +1,57 @@
+[
+  {
+    "locale": "en",
+    "slug": "execution-gate-template",
+    "title": "Execution gate template",
+    "description": "Pre-trade card: regime/location/force/falsification/risk caps → Pass/Fail.",
+    "fileUrl": "/downloads/execution-gate.md",
+    "format": "md",
+    "category": "system"
+  },
+  {
+    "locale": "en",
+    "slug": "weekly-review-template",
+    "title": "Weekly review template",
+    "description": "Evidence chain, top violations, corrective actions, next-week plan and no-trade zones.",
+    "fileUrl": "/downloads/weekly-review.md",
+    "format": "md",
+    "category": "system"
+  },
+  {
+    "locale": "en",
+    "slug": "falsification-card-template",
+    "title": "Falsification card template",
+    "description": "Write failure clearly: trigger + exit action + review fields.",
+    "fileUrl": "/downloads/falsification-card.md",
+    "format": "md",
+    "category": "system"
+  },
+  {
+    "locale": "en",
+    "slug": "pre-trade-checklist-template",
+    "title": "Pre-trade checklist",
+    "description": "Reduce improvisation: structure, risk, falsification, state.",
+    "fileUrl": "/downloads/pre-trade-checklist.md",
+    "format": "md",
+    "category": "templates"
+  },
+  {
+    "locale": "en",
+    "slug": "post-loss-protocol-template",
+    "title": "Post-loss protocol",
+    "description": "Rules after a loss streak: cooldown, cadence, reviews, recovery conditions.",
+    "fileUrl": "/downloads/post-loss-protocol.md",
+    "format": "md",
+    "category": "templates"
+  },
+  {
+    "locale": "en",
+    "slug": "volatility-context-table-template",
+    "title": "Volatility tiers table",
+    "description": "Low/medium/high volatility tiers and parameter rules: stops/size/holding time.",
+    "fileUrl": "/downloads/volatility-context-table.md",
+    "format": "md",
+    "category": "tools"
+  }
+]
+

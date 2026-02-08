@@ -1,0 +1,108 @@
+[
+  {
+    "locale": "en",
+    "slug": "14-day-discipline-reset",
+    "title": "14-day discipline reset",
+    "excerpt": "Build a disciplined execution system: gates, cooldowns, exit language, rule drift checks, and weekly reviews.",
+    "pillar": "mind",
+    "tags": ["discipline", "gate", "review"],
+    "publishedAt": "2025-02-01",
+    "level": "beginner",
+    "access": "free",
+    "estimatedHours": 6,
+    "lessons": [
+      {
+        "slug": "day1-profile-triggers",
+        "title": "Day 1 | Trader profile & triggers",
+        "orderIndex": 1,
+        "durationMin": 35,
+        "contentMd": "## Goal\\nSeparate impulse from behavior: triggers, emotions, bodily cues, external stimuli.\\n\\n## Actions\\n- Log 10 impulses: what did you want to do?\\n- Label triggers: FOMO / revenge / confirmation / boredom\\n\\n## Output\\n- Trigger map\\n- Trigger → behavior mapping\\n"
+      },
+      {
+        "slug": "day2-execution-gate",
+        "title": "Day 2 | Execution gate",
+        "orderIndex": 2,
+        "durationMin": 40,
+        "contentMd": "## Goal\\nTurn entry into an expression after conditions pass.\\n\\n## Minimal fields\\n- Regime\\n- Location type\\n- Force score (0-5)\\n- One-sentence falsification\\n- Risk caps\\n\\n## Homework\\nWrite 5+ fail rules.\\n"
+      },
+      {
+        "slug": "day3-post-loss-protocol",
+        "title": "Day 3 | Post-loss protocol",
+        "orderIndex": 3,
+        "durationMin": 30,
+        "contentMd": "## Goal\\nAvoid the second mistake after a loss.\\n\\n## Example rules\\n- 2 losses: pause 30 min + review only\\n- 3 losses: stop for the day + publish a review\\n\\n## Homework\\nWrite your recovery conditions.\\n"
+      },
+      {
+        "slug": "day4-overtrading",
+        "title": "Day 4 | Overtrading",
+        "orderIndex": 4,
+        "durationMin": 35,
+        "contentMd": "## Goal\\nUse cadence and windows to control frequency.\\n\\n## Actions\\n- Define trading windows\\n- Write a no-trade list (8+ items)\\n\\n## Output\\n- Trading schedule\\n- No-trade list\\n"
+      },
+      {
+        "slug": "day5-exit-language",
+        "title": "Day 5 | Exit language",
+        "orderIndex": 5,
+        "durationMin": 35,
+        "contentMd": "## Goal\\nTurn exits from feelings into evidence changes.\\n\\n## Actions\\n- For 5 trades: 1 falsification + 1 exit action\\n- Review: did you execute?\\n"
+      },
+      {
+        "slug": "day6-rule-drift",
+        "title": "Day 6 | Rule drift detection",
+        "orderIndex": 6,
+        "durationMin": 30,
+        "contentMd": "## Goal\\nDetect how rules slowly loosen.\\n\\n## Actions\\n- List 5 drift patterns\\n- Write one stop trigger per drift\\n"
+      },
+      {
+        "slug": "day7-weekly-review",
+        "title": "Day 7 | Weekly review",
+        "orderIndex": 7,
+        "durationMin": 45,
+        "contentMd": "## Goal\\nConvert errors into next-week prescriptions.\\n\\n## Outputs\\n- Evidence chain\\n- Top 3 violations\\n- 3 corrective actions\\n\\n## Homework\\nPublish one weekly review and score execution.\\n"
+      }
+    ]
+  },
+  {
+    "locale": "en",
+    "slug": "weekly-breakdown-camp",
+    "title": "Weekly breakdown camp",
+    "excerpt": "Turn information into direction and bounds via consistent fields. Train stable market perception.",
+    "pillar": "market",
+    "tags": ["regime", "weekly", "structure"],
+    "publishedAt": "2025-02-05",
+    "level": "intermediate",
+    "access": "free",
+    "estimatedHours": 7,
+    "lessons": [
+      { "slug": "module1-regime", "title": "Module 1 | Regime template", "orderIndex": 1, "durationMin": 35, "contentMd": "## Goal\\nIdentify regimes consistently: trend/range/transition.\\n\\n## Output\\n- Regime checklist\\n- MTF alignment table\\n" },
+      { "slug": "module2-locations", "title": "Module 2 | Key location template", "orderIndex": 2, "durationMin": 40, "contentMd": "## Goal\\nMark boundaries and risk frames.\\n\\n## Output\\n- Location types\\n- Falsification placement\\n" },
+      { "slug": "module3-liquidity-narrative", "title": "Module 3 | Liquidity & narrative", "orderIndex": 3, "durationMin": 40, "contentMd": "## Goal\\nWrite news as structural impact, not feelings.\\n\\n## Output\\n- Narrative notes\\n- Event log fields\\n" },
+      { "slug": "module4-volatility", "title": "Module 4 | Volatility & parameters", "orderIndex": 4, "durationMin": 35, "contentMd": "## Goal\\nMake parameters adapt to volatility.\\n\\n## Output\\n- Volatility tiers\\n- Parameter rules\\n" },
+      { "slug": "module5-one-page-plan", "title": "Module 5 | One-page plan", "orderIndex": 5, "durationMin": 30, "contentMd": "## Goal\\nTurn weekly report into a daily plan.\\n\\n## Output\\n- Allowed scenarios\\n- No-trade zones\\n- Risk caps\\n" },
+      { "slug": "module6-review-iterate", "title": "Module 6 | Review & iterate", "orderIndex": 6, "durationMin": 30, "contentMd": "## Goal\\nCorrect interpretation via reviews.\\n\\n## Output\\n- Error taxonomy\\n- Next-week actions\\n" },
+      { "slug": "module7-quality-standard", "title": "Module 7 | Output standard", "orderIndex": 7, "durationMin": 25, "contentMd": "## Goal\\nDefine what a good weekly report looks like.\\n\\n## Standard\\n- Structure + actions + falsification\\n- Reviewable and reusable\\n" }
+    ]
+  },
+  {
+    "locale": "en",
+    "slug": "force-location-falsification",
+    "title": "Price action: Force × Location × Falsification",
+    "excerpt": "Read charts with falsifiable language: impulse/pullback quality, boundaries, and failure triggers.",
+    "pillar": "price_action",
+    "tags": ["force", "location", "falsification"],
+    "publishedAt": "2025-02-10",
+    "level": "intermediate",
+    "access": "free",
+    "estimatedHours": 8,
+    "lessons": [
+      { "slug": "lesson1-force", "title": "Lesson 1 | Force scoring", "orderIndex": 1, "durationMin": 40, "contentMd": "## Goal\\nScore force instead of memorizing patterns.\\n\\n## Output\\n- Force scorecard\\n- Screenshot template\\n" },
+      { "slug": "lesson2-location", "title": "Lesson 2 | Location & boundaries", "orderIndex": 2, "durationMin": 35, "contentMd": "## Goal\\nExpress near boundaries, not in the middle.\\n\\n## Output\\n- Boundary card\\n- Pivot SOP\\n" },
+      { "slug": "lesson3-falsification", "title": "Lesson 3 | Falsification", "orderIndex": 3, "durationMin": 35, "contentMd": "## Goal\\nIf you can’t write it, you have no boundary.\\n\\n## Output\\n- Falsification card\\n- Failure library fields\\n" },
+      { "slug": "lesson4-breakout-retest", "title": "Lesson 4 | Breakout/retest", "orderIndex": 4, "durationMin": 35, "contentMd": "## Goal\\nRetest validity is the edge.\\n\\n## Output\\n- Retest checklist\\n- Falsification placement\\n" },
+      { "slug": "lesson5-pullback", "title": "Lesson 5 | Pullback/continuation", "orderIndex": 5, "durationMin": 35, "contentMd": "## Goal\\nTrade continuation quality, not the pullback itself.\\n\\n## Output\\n- Pullback template\\n- Continuation conditions\\n" },
+      { "slug": "lesson6-reversal", "title": "Lesson 6 | Reversal sequences", "orderIndex": 6, "durationMin": 40, "contentMd": "## Goal\\nUse sequences to avoid guessing.\\n\\n## Output\\n- Reversal sequence list\\n- Delay rules\\n" },
+      { "slug": "lesson7-cases", "title": "Lesson 7 | Case training", "orderIndex": 7, "durationMin": 45, "contentMd": "## Goal\\nOne chart, three sentences: Force / Location / Falsification.\\n\\n## Output\\n- Template\\n- 10-chart homework\\n" }
+    ]
+  }
+]
+

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 55 50" fill="none">
+  <defs>
+    <linearGradient id="fxg" x1="10" y1="10" x2="54" y2="54" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EAF6FF"/>
+      <stop offset="0.55" stop-color="#8EDBFF"/>
+      <stop offset="1" stop-color="#2AA9FF"/>
+    </linearGradient>
+
+    <!-- 轻霓光：尽量克制，避免“廉价发光” -->
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="1.15" result="b"/>
+      <feColorMatrix in="b" type="matrix"
+        values="0 0 0 0 0.12
+                0 0 0 0 0.55
+                0 0 0 0 0.95
+                0 0 0 0.55 0" result="c"/>
+      <feMerge>
+        <feMergeNode in="c"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g filter="url(#glow)" stroke="url(#fxg)" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round">
+    <!-- “透镜弧”点到为止 -->
+    <path d="M15 43.5 A22 22 0 1 1 50 20.5"/>
+
+    <!-- F（高） -->
+    <path d="M21 18 V46"/>
+    <path d="M21 18 H34"/>
+    <path d="M21 30 H31"/>
+
+    <!-- L（更小：更矮 + 底横更短） -->
+    <path d="M39 26 V46"/>
+    <path d="M39 46 H47"/>
+  </g>
+</svg>

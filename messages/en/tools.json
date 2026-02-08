@@ -1,0 +1,78 @@
+{
+  "hero": {
+    "title": "Tools: make risk visible",
+    "subtitle": "Tools don’t create edge—they enforce clarity. These calculators help you translate intent into numbers: how much you can lose, what size that implies, and what your plan means in R and currency terms. Use them to build a risk boundary and a repeatable execution gate, then review decisions with evidence rather than emotion.",
+    "highlights": [
+      "Position sizing from explicit risk, not guesswork.",
+      "R:R and pip value to quantify the plan upfront.",
+      "Built to support reviewable, auditable execution."
+    ],
+    "cta": {
+      "primary": "Explore the framework",
+      "secondary": "Book a call"
+    },
+    "risk": "Educational content only. Not investment advice; trading involves risk."
+  },
+  "title": "Tools",
+  "lead": "Define risk, quantify size, and make execution explicit.",
+  "position": {
+    "title": "Position sizing",
+    "inputs": {
+      "equity": "Account equity",
+      "riskPct": "Risk per trade (%)",
+      "stopPips": "Stop distance (pips)",
+      "pipValue": "Pip value"
+    },
+    "outputs": {
+      "riskAmt": "Risk amount",
+      "positionSize": "Suggested size"
+    },
+    "note": "Note: The goal is consistent risk per trade and reviewable decisions."
+  },
+  "rr": {
+    "title": "Risk–reward",
+    "inputs": {
+      "entry": "Entry",
+      "stop": "Stop",
+      "target": "Target"
+    },
+    "outputs": {
+      "rr": "R:R"
+    },
+    "note": "Note: R:R belongs to planning—not storytelling."
+  },
+  "pip": {
+    "title": "Pip value & PnL",
+    "inputs": {
+      "lots": "Lots",
+      "pips": "Pips",
+      "pipValue": "Pip value"
+    },
+    "outputs": {
+      "pnl": "PnL"
+    },
+    "note": "Note: Quantify before sizing up—avoid impulse."
+  },
+  "enhance": {
+    "positionTips": {
+      "t1": "Size = equity × risk% / stop distance",
+      "t2": "Size is a risk tool, not a confidence statement.",
+      "t3": "Keep risk per trade consistent to make reviews comparable."
+    },
+    "rrTips": {
+      "t1": "R:R belongs to planning; without exits it’s just storytelling."
+    },
+    "pipTips": {
+      "t1": "Compute first. Scaling without numbers is impulse."
+    }
+  },
+  "quick": {
+    "calc": "Quick calc",
+    "check": "Quick check",
+    "convert": "Quick conversion",
+    "risk": "Risk",
+    "reward": "Reward",
+    "ctaFull": "Open full calculator",
+    "ctaDetail": "View details"
+  }
+}

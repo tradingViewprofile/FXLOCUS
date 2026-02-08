@@ -1,0 +1,113 @@
+{
+  "name": "fxlocus-trading-site",
+  "version": "0.1.16",
+  "private": true,
+  "main": "electron/main.js",
+  "scripts": {
+    "predev": "cross-env ENV_CHECK_MODE=run tsx scripts/checkEnv.ts && tsx scripts/auditSecrets.ts",
+    "dev": "next dev",
+    "prebuild": "cross-env ENV_CHECK_MODE=build tsx scripts/checkEnv.ts && tsx scripts/auditSecrets.ts",
+    "build": "next build",
+    "build:next": "cross-env NODE_OPTIONS=--max-old-space-size=4096 next build",
+    "build:analyze": "cross-env ENV_CHECK_MODE=build tsx scripts/checkEnv.ts && tsx scripts/auditSecrets.ts && cross-env ANALYZE=true NODE_OPTIONS=--max-old-space-size=4096 next build",
+    "prestart": "cross-env ENV_CHECK_MODE=run tsx scripts/checkEnv.ts && tsx scripts/auditSecrets.ts",
+    "start": "next start",
+    "pages:build": "npx @cloudflare/next-on-pages@1",
+    "pages:dev": "npx wrangler pages dev .vercel/output/static --compatibility-flag=nodejs_compat",
+    "lint": "next lint",
+    "create-admin": "tsx scripts/createAdmin.ts",
+    "optimize:equity-curves": "tsx scripts/optimizeEquityCurves.ts",
+    "desktop:dev": "cross-env ELECTRON_START_URL=http://localhost:3000 electron electron/main.js",
+    "desktop:build": "electron-builder --win --x64",
+    "desktop:package": "tsx scripts/buildDesktop.ts",
+    "desktop:release": "tsx scripts/releaseDesktop.ts"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.844.0",
+    "@aws-sdk/s3-request-presigner": "^3.844.0",
+    "@floating-ui/dom": "1.7.5",
+    "@swc/helpers": "0.5.18",
+    "@tailwindcss/typography": "^0.5.19",
+    "@tiptap/extension-image": "^3.14.0",
+    "@tiptap/extension-link": "^3.14.0",
+    "@tiptap/extension-placeholder": "^3.14.0",
+    "@tiptap/extension-underline": "^3.14.0",
+    "@tiptap/react": "^3.14.0",
+    "@tiptap/starter-kit": "^3.14.0",
+    "autoprefixer": "^10.4.22",
+    "bcryptjs": "^3.0.3",
+    "date-fns": "^4.1.0",
+    "echarts": "^5.6.0",
+    "echarts-gl": "^2.0.9",
+    "framer-motion": "^12.23.26",
+    "github-slugger": "^2.0.0",
+    "jose": "^6.1.3",
+    "klinecharts": "^9.8.12",
+    "lucide-react": "^0.562.0",
+    "next": "14.2.5",
+    "next-intl": "^4.6.0",
+    "postcss": "^8.5.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-international-phone": "^4.6.1",
+    "remark": "^15.0.1",
+    "remark-gfm": "^4.0.1",
+    "remark-html": "^16.0.1",
+    "remark-slug": "^7.0.1",
+    "rss-parser": "^3.13.0",
+    "sanitize-html": "^2.17.0",
+    "tailwindcss": "^4.1.18",
+    "ua-parser-js": "^2.0.7",
+    "web-vitals": "^4.2.4",
+    "xlsx": "^0.18.5",
+    "zod": "^4.2.1"
+  },
+  "devDependencies": {
+    "@next/bundle-analyzer": "^14.2.5",
+    "@tailwindcss/postcss": "^4.1.18",
+    "@types/node": "^20.14.10",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.1",
+    "@types/sanitize-html": "^2.16.0",
+    "@cloudflare/next-on-pages": "1.12.1",
+    "@cloudflare/workers-types": "^4.20240208.0",
+    "cross-env": "^7.0.3",
+    "electron": "^30.4.0",
+    "electron-builder": "^24.13.3",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.2.5",
+    "sharp": "^0.34.3",
+    "wrangler": "^3.99.0",
+    "tsx": "^4.20.5",
+    "typescript": "^5.6.3"
+  },
+  "build": {
+    "appId": "com.fxlocus.app",
+    "productName": "Fxlocus",
+    "asar": true,
+    "files": [
+      "electron/**",
+      "package.json",
+      "public/favicon.ico"
+    ],
+    "extraMetadata": {
+      "main": "electron/main.js"
+    },
+    "directories": {
+      "output": "dist/desktop"
+    },
+    "win": {
+      "icon": "public/favicon-256.ico",
+      "target": [
+        "nsis"
+      ]
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": false,
+      "allowElevation": true,
+      "allowToChangeInstallationDirectory": true,
+      "artifactName": "fxlocus_setup.${ext}"
+    }
+  }
+}

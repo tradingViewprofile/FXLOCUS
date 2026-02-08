@@ -1,0 +1,41 @@
+{
+  "hero": {
+    "title": "Courses: structured practice, not inspiration",
+    "subtitle": "Courses turn the framework into a sequence: lessons, assignments, and reviewable outputs. Instead of chasing more techniques, you build a repeatable routine—write context, define falsification, size risk, execute within boundaries, and review your decisions. Progress tracking is designed to support training habits, not to gamify outcomes.",
+    "highlights": [
+      "Levelled lessons across Mind, Market, and Price Action.",
+      "Outputs-first: templates, assignments, and review notes.",
+      "Progress is about consistency, not performance promises."
+    ],
+    "cta": {
+      "primary": "Explore the framework",
+      "secondary": "Book a call"
+    },
+    "risk": "Educational content only. Not investment advice; trading involves risk."
+  },
+  "title": "Courses",
+  "lead": "Structured training programs with lessons, outputs, and simple progress tracking (local).",
+  "access": {
+    "free": "Free",
+    "member": "Member"
+  },
+  "level": {
+    "all": "All levels",
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced"
+  },
+  "lessonsTitle": "Lessons",
+  "lessonsLead": "{count, plural, =0 {No lessons yet} one {# lesson} other {# lessons}}",
+  "lessonLabel": "Lesson {index}",
+  "progress": "Progress",
+  "completed": "Completed",
+  "notCompleted": "Not completed",
+  "markComplete": "Mark complete",
+  "markIncomplete": "Mark incomplete",
+  "backToCourse": "Back to course",
+  "navigationTitle": "Navigate",
+  "prevLesson": "Previous lesson",
+  "nextLesson": "Next lesson"
+}
+

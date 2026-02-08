@@ -1,0 +1,73 @@
+{
+  "brand": {
+    "primary": "FxLocus Trading",
+    "secondary": "汇点核心交易",
+    "subtitle": "Mind / Market / Price Action",
+    "tagline": "Structured training for disciplined traders",
+    "description": "Audit-ready routines and coaching loops that turn execution into a repeatable system.",
+    "tags": ["Structured training", "Risk discipline", "Weekly reviews"]
+  },
+  "columns": [
+    {
+      "title": "About FxLocus",
+      "items": [
+        { "label": "About", "href": "/about" },
+        { "label": "Framework", "href": "/framework" },
+        { "label": "Programs & Services", "href": "/programs" },
+        { "label": "Contact", "href": "/contact" }
+      ]
+    },
+    {
+      "title": "Training Resources",
+      "items": [
+        { "label": "Insights", "href": "/insights" },
+        { "label": "Video Hub", "href": "/videos" },
+        { "label": "Courses", "href": "/courses" },
+        { "label": "Academy", "href": "/academy" },
+        { "label": "FAQ", "href": "/faq" }
+      ]
+    },
+    {
+      "title": "Markets & Tools",
+      "items": [
+        { "label": "Markets", "href": "/markets" },
+        { "label": "News Terminal", "href": "/news" },
+        { "label": "Tools", "href": "/tools" },
+        { "label": "Downloads", "href": "/downloads" }
+      ]
+    },
+    {
+      "title": "Support",
+      "items": [
+        { "label": "Privacy Policy", "href": "/privacy" },
+        { "label": "Terms of Service", "href": "/terms" },
+        { "label": "Risk Disclosure", "href": "/terms#risk" },
+        { "label": "System Login", "href": "/system/login" }
+      ]
+    }
+  ],
+  "quickLinks": [
+    { "label": "Privacy Policy", "href": "/privacy" },
+    { "label": "Terms of Service", "href": "/terms" },
+    { "label": "Risk Disclosure", "href": "/terms#risk" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "disclaimers": [
+    "Risk notice: This platform is for learning and training only and does not constitute investment advice or any performance promise.",
+    "Data notice: Quotes/charts may be delayed; the official venue data prevails.",
+    "Third-party notice: Some data and charts are provided by third-party services; trademarks belong to their owners."
+  ],
+  "socialTitle": "Community",
+  "social": {
+    "youtube": "YouTube",
+    "douyin": "Douyin",
+    "zhihu": "Zhihu",
+    "wechat": "WeChat",
+    "telegram": "Telegram",
+    "discord": "Discord",
+    "x": "X",
+    "facebook": "Facebook",
+    "whatsapp": "WhatsApp"
+  },
+  "copyright": "(c) 2026 FxLocus Trading. All rights reserved."
+}

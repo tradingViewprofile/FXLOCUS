@@ -1,0 +1,304 @@
+[
+  {
+    "locale": "zh",
+    "slug": "execution-gate",
+    "pillar": "mind",
+    "term": "执行闸门",
+    "oneLiner": "不满足条件就禁止下单的“前置过滤器”。",
+    "misconceptions": ["把闸门当成限制机会", "只写闸门，不执行 Fail 规则"],
+    "frameworkNote": "闸门把冲动从执行链路中隔离出来，让表达建立在结构、证伪与风险边界上。",
+    "related": [
+      { "label": "文章：执行闸门", "href": "/insights/execution-gate" }
+    ]
+  },
+  {
+    "locale": "zh",
+    "slug": "trigger-map",
+    "pillar": "mind",
+    "term": "触发器地图（Trigger Map）",
+    "oneLiner": "记录并归因下单冲动的来源，让自动驾驶可被复盘。",
+    "misconceptions": ["把触发器当成“坏情绪”去压制", "不记录，只凭回忆总结"],
+    "frameworkNote": "触发器不是敌人，它是你系统中最早的预警信号。看见它，才可能延迟执行并回到检查表。",
+    "related": [{ "label": "视频：触发器地图", "href": "/videos/video-trigger-map" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "post-loss-protocol",
+    "pillar": "mind",
+    "term": "亏损冷却协议",
+    "oneLiner": "连续亏损后强制进入复盘与降频模式的规则。",
+    "misconceptions": ["亏了就继续加倍追回", "冷却期只是“休息”而不是“复盘”"],
+    "frameworkNote": "协议的目的不是减少亏损，而是减少亏损后的第二次错误，让你的系统不被情绪接管。",
+    "related": [{ "label": "模板：Post-loss protocol", "href": "/downloads/post-loss-protocol-template" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "overtrading",
+    "pillar": "mind",
+    "term": "过度交易",
+    "oneLiner": "在缺乏结构与节奏的情况下，为了行动而行动。",
+    "misconceptions": ["把次数当唯一指标", "认为只要更努力就会更好"],
+    "frameworkNote": "治理重点是定义交易窗口与非交易清单，让“观察”成为有效动作。",
+    "related": [{ "label": "文章：过度交易治理", "href": "/insights/overtrading-chain" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "exit-language",
+    "pillar": "mind",
+    "term": "退出语言（Exit language）",
+    "oneLiner": "把止盈/止损从“感觉”变成“证据变化”的规则语言。",
+    "misconceptions": ["退出等于承认失败，所以拖延", "只在亏损时才需要退出规则"],
+    "frameworkNote": "退出是纪律的集中体现：证伪触发即执行。把退出写成动作，你的复盘才有证据链。",
+    "related": [{ "label": "文章：退出语言", "href": "/insights/exit-language" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "rule-drift",
+    "pillar": "mind",
+    "term": "规则漂移",
+    "oneLiner": "在压力或连赢下逐步放松规则的过程。",
+    "misconceptions": ["只在亏损时漂移", "漂移是“临时调整”，不需要记录"],
+    "frameworkNote": "漂移往往发生在你最“自信”的时候。记录漂移模式，才能建立停止触发器。",
+    "related": [{ "label": "课程：纪律重建 Day6", "href": "/courses/14-day-discipline-reset" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "pre-trade-checklist",
+    "pillar": "mind",
+    "term": "交易前检查表",
+    "oneLiner": "减少临场发挥，把下单变成可审计动作。",
+    "misconceptions": ["检查表太麻烦影响速度", "写了检查表就等于执行了"],
+    "frameworkNote": "检查表是闸门的最小实现：用固定问题逼迫你回到结构与风险边界。",
+    "related": [{ "label": "模板：Pre-trade checklist", "href": "/downloads/pre-trade-checklist-template" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "hard-limits",
+    "pillar": "mind",
+    "term": "红线规则（Hard limits）",
+    "oneLiner": "不可突破的风险边界：当日风险、连亏状态、最大回撤警戒。",
+    "misconceptions": ["红线只针对新手", "触发红线后可以“等回本再停”"],
+    "frameworkNote": "红线不是观点强弱，而是系统稳定性。触发即执行，才能保持可复盘。",
+    "related": [{ "label": "Tools：当日风险上限", "href": "/tools" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "scorecard",
+    "pillar": "mind",
+    "term": "执行评分卡",
+    "oneLiner": "用可量化维度评估一致性，而不是凭感觉。",
+    "misconceptions": ["评分卡是形式主义", "只看结果，不看过程"],
+    "frameworkNote": "评分卡让复盘有抓手：闸门/风险/证据/退出/复盘质量可以被审计。"
+  },
+  {
+    "locale": "zh",
+    "slug": "journaling",
+    "pillar": "mind",
+    "term": "记录（Journaling）",
+    "oneLiner": "把交易变成证据链：可复盘、可审计、可迭代。",
+    "misconceptions": ["记录会影响执行", "只记录入场点位"],
+    "frameworkNote": "记录的核心字段不是点位，是“你为什么这样做”，以及“你如何承认失败”。"
+  },
+  {
+    "locale": "zh",
+    "slug": "cooldown-state",
+    "pillar": "mind",
+    "term": "连续亏损状态",
+    "oneLiner": "当系统被情绪接管时的风险状态标记。",
+    "misconceptions": ["连续亏损时更应该加大仓位", "亏损状态只由盈亏决定"],
+    "frameworkNote": "亏损状态的判断应结合违规次数与评分趋势。状态触发→启用冷却协议。",
+    "related": [{ "label": "文章：亏损冷却协议", "href": "/insights/post-loss-24h-protocol" }]
+  },
+
+  {
+    "locale": "zh",
+    "slug": "regime",
+    "pillar": "market",
+    "term": "市场阶段（Regime）",
+    "oneLiner": "趋势/震荡/转折等不同环境下的参与者与约束组合。",
+    "misconceptions": ["阶段=形态名字", "一个指标就能定义阶段"],
+    "frameworkNote": "阶段识别决定表达方式与风险边界：阶段不清时默认减仓或不交易。",
+    "related": [{ "label": "文章：阶段比形态更重要", "href": "/insights/regimes-over-patterns" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "narrative",
+    "pillar": "market",
+    "term": "叙事（Narrative）",
+    "oneLiner": "解释价格行为的“为什么”：谁在被迫、谁在获利、谁在等待。",
+    "misconceptions": ["叙事=情绪化新闻解读", "叙事不可复盘"],
+    "frameworkNote": "叙事要写成结构影响：影响流动性、波动与关键位置的约束。",
+    "related": [{ "label": "课程：周结构报告", "href": "/courses/weekly-breakdown-camp" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "liquidity",
+    "pillar": "market",
+    "term": "流动性（Liquidity）",
+    "oneLiner": "成交与止损的“燃料”，决定价格如何穿越位置。",
+    "misconceptions": ["流动性=庄家阴谋", "只要找止损密集区就能赚钱"],
+    "frameworkNote": "流动性视角帮助你定义“哪里会被扫、哪里是证伪点”。",
+    "related": [{ "label": "文章：流动性与关键位置", "href": "/insights/liquidity-key-locations" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "key-location",
+    "pillar": "market",
+    "term": "关键位置（Key location）",
+    "oneLiner": "能改变参与者行为与风险边界的位置，而不是“画线”。",
+    "misconceptions": ["任何高低点都是关键位", "关键位只看单周期"],
+    "frameworkNote": "关键位必须可证伪：你错在哪里、错了该怎么走。",
+    "related": [{ "label": "模板：周复盘", "href": "/downloads/weekly-review-template" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "htf-ltf-alignment",
+    "pillar": "market",
+    "term": "多周期一致性（HTF/LTF）",
+    "oneLiner": "大周期定义方向与边界，小周期负责表达与执行。",
+    "misconceptions": ["越多周期越好", "冲突时硬做，靠止损解决"],
+    "frameworkNote": "冲突处理必须写成规则：减仓/放弃/延迟进入。",
+    "related": [{ "label": "文章：多周期一致性", "href": "/insights/htf-ltf-alignment" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "session",
+    "pillar": "market",
+    "term": "时段与节奏（Session rhythm）",
+    "oneLiner": "不同交易时段的波动与参与者差异，会改变策略表现。",
+    "misconceptions": ["所有时段同一套参数", "在无结构时段频繁尝试"],
+    "frameworkNote": "把时段写进交易日程：哪些时段允许表达，哪些时段只观察。",
+    "related": [{ "label": "文章：时段与节奏", "href": "/insights/session-rhythm" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "volatility-context",
+    "pillar": "market",
+    "term": "波动环境（Volatility context）",
+    "oneLiner": "波动水平决定止损宽度、仓位与持仓时间。",
+    "misconceptions": ["一套参数跑所有市场", "波动越大越要加仓"],
+    "frameworkNote": "波动要写成参数规则，使执行可比较、可复盘。",
+    "related": [{ "label": "模板：波动分层表", "href": "/downloads/volatility-context-table-template" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "weekly-breakdown",
+    "pillar": "market",
+    "term": "周结构报告（Weekly breakdown）",
+    "oneLiner": "每周固定输出一份结构报告，训练框架稳定性。",
+    "misconceptions": ["周报是观点合集", "只写消息，不写边界与证伪"],
+    "frameworkNote": "周报的价值在于：下周每天用它校验你的交易理由。",
+    "related": [{ "label": "视频：周结构报告", "href": "/videos/video-weekly-breakdown" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "sweep",
+    "pillar": "market",
+    "term": "扫流动性（Sweep）",
+    "oneLiner": "价格穿越显眼止损区以完成成交与再平衡。",
+    "misconceptions": ["扫一下就必反转", "扫流动性就是机会"],
+    "frameworkNote": "Sweep 需要结合位置与推进质量判断，核心仍是证伪边界。",
+    "related": [{ "label": "文章：假突破本质", "href": "/insights/false-breakouts" }]
+  },
+
+  {
+    "locale": "zh",
+    "slug": "force",
+    "pillar": "price_action",
+    "term": "力量（Force）",
+    "oneLiner": "推进与回撤的质量：谁在主导、是否衰竭。",
+    "misconceptions": ["力量=一根大阳线", "不看回撤质量"],
+    "frameworkNote": "力量是可打分的：推进质量与回撤性质决定你的表达优势。",
+    "related": [{ "label": "课程：Force 打分法", "href": "/courses/force-location-falsification" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "impulse",
+    "pillar": "price_action",
+    "term": "推进（Impulse）",
+    "oneLiner": "结构推动的一段主导行情，体现参与者压制。",
+    "misconceptions": ["推进越快越好", "推进后立刻追单"],
+    "frameworkNote": "推进后要问：回撤是否有序？证伪点在哪里？",
+    "related": [{ "label": "文章：力量打分", "href": "/insights/force-scoring" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "pullback",
+    "pillar": "price_action",
+    "term": "回撤（Pullback）",
+    "oneLiner": "主导行情中的调整段落，决定续航是否成立。",
+    "misconceptions": ["回撤=必定机会", "回撤不需要证伪点"],
+    "frameworkNote": "你交易的不是回撤本身，而是回撤后的续航质量。",
+    "related": [{ "label": "文章：回撤/续航", "href": "/insights/pullback-continuation" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "location",
+    "pillar": "price_action",
+    "term": "位置（Location）",
+    "oneLiner": "结构边界与风险范围：你在哪儿错、错了该走。",
+    "misconceptions": ["位置=随便画线", "位置只看一个周期"],
+    "frameworkNote": "位置定义风险边界：表达应该发生在边界附近。",
+    "related": [{ "label": "文章：位置意义", "href": "/insights/location-context" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "boundary",
+    "pillar": "price_action",
+    "term": "边界（Boundary）",
+    "oneLiner": "结构的防守线：失守即改变概率与叙事。",
+    "misconceptions": ["边界=心理关口", "边界失守还可以扛单等待"],
+    "frameworkNote": "边界必须可证伪：失守后你做什么动作？",
+    "related": [{ "label": "模板：证伪卡", "href": "/downloads/falsification-card-template" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "pivot",
+    "pillar": "price_action",
+    "term": "枢纽（Pivot）",
+    "oneLiner": "结构转折的关键节点，决定等待还是表达。",
+    "misconceptions": ["枢纽=任意拐点", "枢纽不需要确认序列"],
+    "frameworkNote": "枢纽的确认来自行为序列：失败推进+位置抵抗+二次测试。",
+    "related": [{ "label": "文章：反转证据链", "href": "/insights/reversal-as-failure" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "falsification",
+    "pillar": "price_action",
+    "term": "证伪（Falsification）",
+    "oneLiner": "失败条件与退出动作：写清楚，才有边界。",
+    "misconceptions": ["证伪=止损点位", "证伪写成情绪判断"],
+    "frameworkNote": "证伪是系统语言：触发即执行，然后复盘，而不是希望。",
+    "related": [{ "label": "文章：证伪写法", "href": "/insights/write-falsification" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "failure-pattern",
+    "pillar": "price_action",
+    "term": "失败形态（Failure pattern）",
+    "oneLiner": "推进失败的可观察序列，用于证伪与反转确认。",
+    "misconceptions": ["失败形态=一个形态名字", "只看一根K线"],
+    "frameworkNote": "失败形态的价值在于：把退出写成规则，而不是情绪。",
+    "related": [{ "label": "案例库：失败推进", "href": "/cases" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "breakout-retest",
+    "pillar": "price_action",
+    "term": "突破回测（Breakout/retest）",
+    "oneLiner": "突破后的回测是否站稳，才是表达的关键证据。",
+    "misconceptions": ["突破就追", "回测不写证伪点"],
+    "frameworkNote": "回测失败是强证伪信号：触发即退出，不要叙事化解释。",
+    "related": [{ "label": "文章：突破回测", "href": "/insights/breakout-retest" }]
+  },
+  {
+    "locale": "zh",
+    "slug": "three-sentence-method",
+    "pillar": "price_action",
+    "term": "三句法（Force/Location/Falsification）",
+    "oneLiner": "用三句话写清楚交易：力量、位置、证伪。",
+    "misconceptions": ["三句法只是“写写而已”", "把三句法写成情绪宣泄"],
+    "frameworkNote": "三句法让理由可审计：写不出来，说明边界不清。它是闸门与日志的桥梁。",
+    "related": [{ "label": "视频：三句法", "href": "/videos/video-three-sentence" }]
+  }
+]

@@ -1,0 +1,266 @@
+{
+  "hero": {
+    "eyebrow": "Market workspace",
+    "title": "Markets",
+    "subtitle": "Build perception first, then execution. Markets will become the unified workspace for instruments, charts, and a risk-bounded simulation flow—so every click produces reviewable evidence. The goal is to make context, risk, and decisions explicit before you touch strategy details.",
+    "highlights": [
+      "Universe + search + watchlist built for training.",
+      "Chart area designed to support narratives and falsification.",
+      "Simulation panel with risk controls and journaling."
+    ],
+    "cta": {
+      "primary": "Open Markets",
+      "secondary": "Read News"
+    },
+    "risk": "Educational use only. Not investment advice; trading involves risk."
+  },
+  "layout": {
+    "left": {
+      "title": "Universe",
+      "search": "Search / symbol lookup (placeholder)",
+      "categories": "Categories & filters (placeholder)",
+      "watchlist": "Watchlist & notes (placeholder)"
+    },
+    "middle": {
+      "title": "Chart",
+      "chart": "Chart area (placeholder)"
+    },
+    "right": {
+      "title": "Simulation",
+      "paper": "Paper trading panel (placeholder)",
+      "risk": "Risk controls & journal (placeholder)"
+    }
+  },
+  "terminal": {
+    "title": "Markets Terminal",
+    "tagline": "Training only. Cognition and execution before tactics (not investment advice).",
+    "left": {
+      "expand": "Expand instruments",
+      "collapse": "Collapse instruments",
+      "handle": "Resize instruments panel",
+      "edge": "Expand instruments panel",
+      "rail": "Instruments",
+      "railHint": "Expand instruments panel"
+    },
+    "right": {
+      "expand": "Expand panel",
+      "collapse": "Collapse panel",
+      "handle": "Resize panel",
+      "edge": "Expand panel"
+    },
+    "fullscreen": {
+      "enter": "Full screen",
+      "exit": "Exit full screen",
+      "enterHint": "Full screen (ESC to exit)",
+      "exitHint": "Exit full screen (ESC)"
+    }
+  },
+  "workspace": {
+    "disclaimer": "Some data is synthetic or estimated for training and will be labeled. Not investment advice.",
+    "tabs": {
+      "depth": "Depth",
+      "stats": "Stats",
+      "ai": "AI lens",
+      "news": "News"
+    },
+    "stats": {
+      "title": "Session stats",
+      "last": "Last",
+      "change": "Change",
+      "high": "High",
+      "low": "Low",
+      "open": "Open",
+      "prevClose": "Prev close",
+      "bid": "Bid",
+      "ask": "Ask",
+      "spread": "Spread",
+      "updated": "Updated",
+      "loading": "Loading quote...",
+      "na": "N/A",
+      "demo": "Demo data",
+      "source": "Live feed",
+      "volume": "Volume",
+      "unavailable": "Stats will appear when the data source is connected.",
+      "placeholder": "Daily stats will appear here (high/low/volume)."
+    },
+    "search": {
+      "label": "Search",
+      "placeholder": "Symbol or name (EUR/USD, EURUSD, Euro Dollar)"
+    },
+    "categories": {
+      "title": "Categories",
+      "all": "All",
+      "toggle": "Toggle category",
+      "fx_direct": "FX Majors",
+      "fx_cross": "FX Crosses",
+      "metals": "Gold / Silver",
+      "crypto": "Crypto",
+      "indices": "Indices",
+      "commodities": "Commodities"
+    },
+    "watchlist": {
+      "title": "Watchlist",
+      "empty": "No favorites yet.",
+      "hint": "Star instruments to pin them here."
+    },
+    "list": {
+      "title": "Instrument list",
+      "empty": "No instruments match the current filter.",
+      "labels": {
+        "high": "High",
+        "low": "Low",
+        "bid": "Bid",
+        "ask": "Ask"
+      }
+    },
+    "actions": {
+      "watchlist": "Toggle watchlist",
+      "watch": "Watch",
+      "unwatch": "Remove",
+      "chart": "View chart",
+      "trade": "Focus paper trading"
+    },
+    "controls": {
+      "refresh": "Refresh",
+      "paused": "Paused",
+      "live": "Live",
+      "rateLimited": "Rate limited. Switched to 5s refresh."
+    },
+    "chart": {
+      "title": "Chart",
+      "doubleClick": "Double-click chart to maximize",
+      "fullscreenHint": "Double-click or ESC to exit",
+      "snapshotHint": "Use the TradingView toolbar for screenshots. One-click export comes later.",
+      "unavailable": "Chart unavailable for this instrument."
+    },
+    "depth": {
+      "title": "Depth & Lens",
+      "tabs": {
+        "depth": "Depth",
+        "ai": "FxLocus Lens",
+        "news": "Related news"
+      },
+      "bid": "Bid",
+      "ask": "Ask",
+      "spread": "Spread",
+      "volume": "Volume",
+      "updated": "Updated",
+      "loading": "Loading depth...",
+      "unavailable": "Depth unavailable for this instrument.",
+      "simulated": "Simulated depth",
+      "source": {
+        "binance": "Binance depth",
+        "synthetic": "Simulated depth"
+      }
+    },
+    "ai": {
+      "title": "FxLocus Lens",
+      "loading": "Generating lens...",
+      "generate": "Generate AI lens",
+      "disabled": "AI not configured",
+      "missing": "OpenAI key not configured.",
+      "error": "AI summary unavailable.",
+      "cognition": "Cognition",
+      "execution": "Execution",
+      "tactics": "Tactics",
+      "rangeLabel": "Range",
+      "changeLabel": "Change",
+      "executionRule": "Stay within a defined risk boundary; position size before entry.",
+      "invalidationLabel": "Falsification level",
+      "checklistHint": "Confirm the execution checklist before entry.",
+      "tacticsFirst": "Wait for structure confirmation before adding risk.",
+      "tacticsSecond": "Avoid chasing; review the plan after the session.",
+      "trend": {
+        "up": "Trend: upward momentum with strength.",
+        "down": "Trend: downward pressure with follow-through.",
+        "range": "Trend: range or neutral structure."
+      }
+    },
+    "news": {
+      "title": "Related news",
+      "loading": "Loading related news...",
+      "error": "Unable to load related news.",
+      "empty": "No related news yet.",
+      "cta": "Open the news desk",
+      "placeholder": [
+        "Macro headlines mapped to structure.",
+        "Phase 3 AI feed will replace this panel.",
+        "Optional TradingView Top Stories widget below."
+      ],
+      "disclaimer": "News is for training and information only; not investment advice."
+    },
+    "paper": {
+      "title": "Paper trading",
+      "balance": "Balance",
+      "side": {
+        "buy": "Buy",
+        "sell": "Sell"
+      },
+      "typeLabel": "Order type",
+      "type": {
+        "market": "Market",
+        "limit": "Limit",
+        "stop": "Stop"
+      },
+      "qty": "Quantity",
+      "limitPrice": "Limit price",
+      "stopPrice": "Stop price",
+      "place": "Place order",
+      "latest": "Last price",
+      "positions": "Positions",
+      "openOrders": "Open orders",
+      "history": "Order history",
+      "empty": "No orders yet.",
+      "loginHint": "Synced with Supabase.",
+      "demoHint": "Demo mode uses local storage; connect Supabase to persist.",
+      "mode": {
+        "synced": "Synced",
+        "demo": "Demo"
+      },
+      "error": {
+        "price": "Latest price not available.",
+        "qty": "Enter a valid quantity.",
+        "limit": "Limit price required.",
+        "stop": "Stop price required.",
+        "balance": "Insufficient balance."
+      },
+      "risk": "Educational use only. Not investment advice; trading involves risk."
+    },
+    "hotkeys": {
+      "title": "Hotkeys",
+      "space": "Space: pause/resume refresh",
+      "doubleClick": "Double-click chart: full screen",
+      "esc": "ESC: exit full screen"
+    },
+    "status": {
+      "loading": "Loading market workspace..."
+    }
+  },
+  "execution": {
+    "title": "Execution panel",
+    "tagline": "Training flow: cognition and execution before tactics.",
+    "currentLabel": "Current symbol:",
+    "symbolFallback": "-",
+    "checklist": {
+      "title": "Execution checklist",
+      "context": "Narrative/phase is identified",
+      "keyLevel": "Key levels are marked",
+      "invalidation": "Falsification point is defined",
+      "size": "Position size and risk boundary set",
+      "emotions": "Emotions steady (no chase/revenge)"
+    },
+    "invalidation": {
+      "title": "Falsification",
+      "placeholder": "Example: breaks 1.0720 and closes below"
+    },
+    "risk": {
+      "title": "Risk boundary",
+      "default": "Risk per trade capped at 0.5% - 1% of account"
+    },
+    "note": {
+      "title": "Quick notes",
+      "placeholder": "Context, key levels, execution plan, risk, review points..."
+    },
+    "cta": "Open trade system (journal/review/courses)"
+  }
+}

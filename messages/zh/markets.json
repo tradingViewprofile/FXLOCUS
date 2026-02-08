@@ -1,0 +1,265 @@
+{
+  "hero": {
+    "eyebrow": "行情工作台",
+    "title": "行情",
+    "subtitle": "先重塑认知与执行，再谈策略与技巧。这里将整合品种视图、图表与可审计的模拟流程：先把上下文、证伪点与风险边界写清，再把执行动作做成可复盘记录。行情不是“预测”，而是训练你在不确定性中保持一致性的场景。",
+    "highlights": [
+      "品种分类/搜索/自选：为训练组织信息。",
+      "图表区域：叙事、关键位与证伪点优先。",
+      "模拟交易：风控、日志与执行闸门。"
+    ],
+    "cta": {
+      "primary": "进入行情",
+      "secondary": "查看新闻"
+    },
+    "risk": "仅用于教育与训练，不构成投资建议；交易有风险。"
+  },
+  "layout": {
+    "left": {
+      "title": "品种与自选",
+      "search": "搜索 / 品种查询",
+      "categories": "分类与筛选",
+      "watchlist": "自选与备注"
+    },
+    "middle": {
+      "title": "图表",
+      "chart": "图表区域"
+    },
+    "right": {
+      "title": "模拟交易",
+      "paper": "模拟交易面板",
+      "risk": "风控与日志"
+    }
+  },
+  "terminal": {
+    "title": "行情终端",
+    "tagline": "训练用途｜先认知与执行，再谈策略技巧（非投资建议）。",
+    "left": {
+      "expand": "展开品种",
+      "collapse": "收起品种",
+      "handle": "拖拽调整品种栏宽度",
+      "edge": "展开品种栏",
+      "rail": "品种",
+      "railHint": "展开品种栏"
+    },
+    "right": {
+      "expand": "展开面板",
+      "collapse": "收起面板",
+      "handle": "拖拽调整面板宽度",
+      "edge": "展开面板"
+    },
+    "fullscreen": {
+      "enter": "全屏",
+      "exit": "退出全屏",
+      "enterHint": "盘面全屏（ESC 退出）",
+      "exitHint": "退出全屏（ESC）"
+    }
+  },
+  "workspace": {
+    "disclaimer": "提示：部分数据为训练用途的合成/估算，且会明确标注（非投资建议）。",
+    "tabs": {
+      "depth": "深度",
+      "stats": "统计",
+      "ai": "AI 视角",
+      "news": "新闻"
+    },
+    "stats": {
+      "title": "当日统计",
+      "last": "最新价",
+      "change": "涨跌",
+      "high": "最高",
+      "low": "最低",
+      "open": "开盘",
+      "prevClose": "前收",
+      "bid": "买",
+      "ask": "卖",
+      "spread": "点差",
+      "updated": "更新时间",
+      "loading": "正在加载报价...",
+      "na": "N/A",
+      "demo": "演示数据",
+      "source": "实时数据",
+      "volume": "成交量",
+      "unavailable": "统计数据将在数据源接入后显示。"
+    },
+    "search": {
+      "label": "搜索",
+      "placeholder": "品种或名称（EUR/USD、EURUSD、欧元美元）"
+    },
+    "categories": {
+      "title": "分类",
+      "all": "全部",
+      "toggle": "全部",
+      "fx_direct": "直盘货币对",
+      "fx_cross": "交叉盘",
+      "metals": "黄金 / 白银",
+      "crypto": "数字货币",
+      "indices": "指数",
+      "commodities": "大宗商品"
+    },
+    "watchlist": {
+      "title": "自选",
+      "empty": "暂无自选。",
+      "hint": "收藏品种即可固定显示。"
+    },
+    "list": {
+      "title": "品种列表",
+      "empty": "当前筛选无匹配品种。",
+      "labels": {
+        "high": "最高",
+        "low": "最低",
+        "bid": "买",
+        "ask": "卖"
+      }
+    },
+    "actions": {
+      "watchlist": "切换自选",
+      "watch": "收藏",
+      "unwatch": "移除",
+      "chart": "查看图表",
+      "trade": "模拟交易"
+    },
+    "controls": {
+      "refresh": "刷新",
+      "paused": "已暂停",
+      "live": "实时",
+      "rateLimited": "已限流，自动切换为 5 秒刷新。"
+    },
+    "chart": {
+      "title": "图表",
+      "doubleClick": "双击图表全屏",
+      "fullscreenHint": "双击或按 ESC 退出",
+      "snapshotHint": "请使用 TradingView 工具栏截图，后续提供一键导出。",
+      "unavailable": "该品种暂无图表。"
+    },
+    "depth": {
+      "title": "深度与视角",
+      "tabs": {
+        "depth": "深度",
+        "ai": "FxLocus Lens",
+        "news": "相关新闻"
+      },
+      "bid": "买",
+      "ask": "卖",
+      "spread": "点差",
+      "volume": "成交量",
+      "updated": "更新时间",
+      "loading": "加载深度中...",
+      "unavailable": "该品种暂无深度数据。",
+      "simulated": "模拟深度",
+      "source": {
+        "binance": "Binance 深度",
+        "synthetic": "模拟深度"
+      }
+    },
+    "ai": {
+      "title": "FxLocus Lens",
+      "loading": "正在生成视角...",
+      "generate": "生成 AI 视角",
+      "disabled": "未配置 AI",
+      "missing": "未配置 OpenAI Key。",
+      "error": "AI 摘要不可用。",
+      "cognition": "认知",
+      "execution": "执行",
+      "tactics": "策略与技巧",
+      "rangeLabel": "区间",
+      "changeLabel": "涨跌",
+      "executionRule": "先定义风险边界与仓位，再考虑入场。",
+      "invalidationLabel": "证伪点",
+      "checklistHint": "执行前完成清单确认。",
+      "tacticsFirst": "确认结构后再加风险。",
+      "tacticsSecond": "避免追单，收盘后复盘。",
+      "trend": {
+        "up": "趋势：上行动能偏强。",
+        "down": "趋势：下行压力延续。",
+        "range": "趋势：区间或中性结构。"
+      }
+    },
+    "news": {
+      "title": "相关新闻",
+      "loading": "加载相关新闻中...",
+      "error": "相关新闻加载失败。",
+      "empty": "暂无相关新闻。",
+      "cta": "前往新闻中心",
+      "placeholder": [
+        "宏观头条将映射到结构与阶段。",
+        "Phase 3 的 AI 新闻流将接入此处。",
+        "可选接入 TradingView Top Stories 小组件。"
+      ],
+      "disclaimer": "新闻用于训练与信息整理，不构成投资建议。"
+    },
+    "paper": {
+      "title": "模拟交易",
+      "balance": "余额",
+      "side": {
+        "buy": "买入",
+        "sell": "卖出"
+      },
+      "typeLabel": "订单类型",
+      "type": {
+        "market": "市价",
+        "limit": "限价",
+        "stop": "止损"
+      },
+      "qty": "数量",
+      "limitPrice": "限价",
+      "stopPrice": "止损价",
+      "place": "提交订单",
+      "latest": "最新价",
+      "positions": "持仓",
+      "openOrders": "挂单",
+      "history": "历史订单",
+      "empty": "暂无订单。",
+      "loginHint": "已与 Supabase 同步。",
+      "demoHint": "演示模式使用本地存储，可接入 Supabase 持久化。",
+      "mode": {
+        "synced": "同步",
+        "demo": "演示"
+      },
+      "error": {
+        "price": "暂无最新价。",
+        "qty": "请输入有效数量。",
+        "limit": "请输入限价。",
+        "stop": "请输入止损价。",
+        "balance": "余额不足。"
+      },
+      "risk": "仅用于教育与训练，不构成投资建议；交易有风险。"
+    },
+    "hotkeys": {
+      "title": "快捷键",
+      "space": "空格：暂停/恢复刷新",
+      "doubleClick": "双击图表：全屏",
+      "esc": "ESC：退出全屏"
+    },
+    "status": {
+      "loading": "行情工作台加载中..."
+    }
+  },
+  "execution": {
+    "title": "执行面板",
+    "tagline": "训练路径：先认知与执行，再谈策略。",
+    "currentLabel": "当前品种：",
+    "symbolFallback": "-",
+    "checklist": {
+      "title": "执行清单",
+      "context": "明确叙事/阶段",
+      "keyLevel": "关键位置已标注",
+      "invalidation": "证伪点清晰",
+      "size": "仓位与风险边界已计算",
+      "emotions": "情绪稳定（不追单/不报复）"
+    },
+    "invalidation": {
+      "title": "证伪点",
+      "placeholder": "例如：跌破 1.0720 且收盘"
+    },
+    "risk": {
+      "title": "风险边界",
+      "default": "单笔风险不超过账户的 0.5% - 1%"
+    },
+    "note": {
+      "title": "快速记录",
+      "placeholder": "上下文、关键位、执行计划、风险、复盘要点..."
+    },
+    "cta": "进入交易系统（日志/复盘/课程）"
+  }
+}

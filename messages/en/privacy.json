@@ -1,0 +1,15 @@
+{
+  "title": "Privacy",
+  "lead": "This page explains how we collect, use, and protect your information.",
+  "updated": "Last updated: 2025-01-01",
+  "sections": {
+    "s1Title": "What we collect",
+    "s1Body": "When you submit a form or contact us, you may provide name, email, WeChat, and the context you share.",
+    "s2Title": "How we use it",
+    "s2Body": "Only to respond to your request, improve experience, and handle necessary compliance communication. We don’t sell your data.",
+    "s3Title": "Retention and deletion",
+    "s3Body": "We retain necessary information for a reasonable period. You can request deletion via the contact page.",
+    "s4Title": "Third-party services",
+    "s4Body": "We may use third-party services (e.g., email, databases) to provide functionality. We aim to select providers with reasonable security practices."
+  }
+}

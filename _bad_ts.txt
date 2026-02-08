@@ -1,0 +1,2 @@
+E:\web\fxlocus\app\[locale]\page.tsx	1
+E:\web\fxlocus\app\[locale]\system\(public)\login\page.tsx	1

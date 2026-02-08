@@ -1,0 +1,54 @@
+{
+  "brandCn": "汇点核心交易",
+  "brandEn": "FxLocus Trading",
+  "cta": {
+    "enterFramework": "进入核心体系",
+    "bookCall": "预约一次交流",
+    "viewAll": "查看全部",
+    "learnMore": "了解更多",
+    "getStarted": "开始训练",
+    "submit": "提交",
+    "copy": "复制",
+    "back": "返回"
+  },
+  "labels": {
+    "mind": "交易心理",
+    "market": "市场认知",
+    "price": "K线本质"
+  },
+  "form": {
+    "country": "国家/地区",
+    "phone": "手机号",
+    "placeholders": {
+      "phone": "请输入手机号…"
+    }
+  },
+  "ui": {
+    "menu": "菜单",
+    "close": "关闭",
+    "nav": "导航",
+    "copied": "已复制",
+    "searchCountry": "搜索国家/地区…",
+    "noResults": "无匹配结果",
+    "capabilities": "系统能力",
+    "step": "步骤",
+    "metric": "评估指标",
+    "before": "变化前",
+    "after": "变化后",
+    "deliverables": "交付物",
+    "trainingAction": "训练动作",
+    "evaluation": "评估",
+    "submitting": "提交中…",
+    "toc": "目录",
+    "minutesShort": "分钟",
+    "locale": {
+      "zh": "中文",
+      "en": "EN"
+    }
+  },
+  "tiers": {
+    "course": "课程",
+    "camp": "陪练",
+    "audit": "1v1"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "hero": {
+    "eyebrow": "信号，而非噪音",
+    "title": "新闻",
+    "subtitle": "把新闻当作上下文，而不是冲动开仓的理由。这里会把叙事、重要性与时间轴组织成可训练的资讯流：你需要回答“发生了什么变化”“证伪点是什么”“如何在风险边界内执行”。目标是更稳的决策与复盘，而不是更快的反应。",
+    "highlights": [
+      "按分类、重要性与时间维度筛选。",
+      "资讯流服务复盘：记录决策依据。",
+      "侧栏保留热门、日历与训练推荐。"
+    ],
+    "cta": {
+      "primary": "进入新闻",
+      "secondary": "进入行情"
+    },
+    "risk": "仅用于教育与训练，不构成投资建议；交易有风险。"
+  },
+  "layout": {
+    "left": {
+      "title": "筛选",
+      "category": "分类",
+      "importance": "重要性 / 影响",
+      "time": "时间范围"
+    },
+    "middle": {
+      "title": "资讯流"
+    },
+    "right": {
+      "title": "侧栏",
+      "hot": "热门",
+      "calendar": "经济日历",
+      "recommend": "课程推荐"
+    }
+  },
+  "filters": {
+    "title": "筛选",
+    "category": "分类",
+    "time": "时间范围",
+    "customFrom": "开始",
+    "customTo": "结束",
+    "range": {
+      "today": "今日",
+      "week": "本周",
+      "month": "本月",
+      "custom": "自定义"
+    },
+    "categories": {
+      "fx": "外汇",
+      "stocks": "股票",
+      "commodities": "商品",
+      "crypto": "加密",
+      "macro": "宏观"
+    }
+  },
+  "feed": {
+    "title": "资讯流",
+    "loading": "新闻加载中...",
+    "empty": "暂无符合条件的新闻。",
+    "error": "当前无法加载新闻。",
+    "readMore": "阅读全文"
+  },
+  "trending": {
+    "title": "热门",
+    "empty": "暂无热门内容。"
+  }
+}
